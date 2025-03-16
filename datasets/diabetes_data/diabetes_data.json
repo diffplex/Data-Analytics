@@ -1,0 +1,7682 @@
+[
+ {
+   "pregnancies": 6,
+   "glucose": 148,
+   "diastolic": 72,
+   "triceps": 35,
+   "insulin": 0,
+   "bmi": 33.6,
+   "dpf": 0.627,
+   "age": 50
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 85,
+   "diastolic": 66,
+   "triceps": 29,
+   "insulin": 0,
+   "bmi": 26.6,
+   "dpf": 0.351,
+   "age": 31
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 183,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.3,
+   "dpf": 0.672,
+   "age": 32
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 89,
+   "diastolic": 66,
+   "triceps": 23,
+   "insulin": 94,
+   "bmi": 28.1,
+   "dpf": 0.167,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 137,
+   "diastolic": 40,
+   "triceps": 35,
+   "insulin": 168,
+   "bmi": 43.1,
+   "dpf": 2.288,
+   "age": 33
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 116,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.6,
+   "dpf": 0.201,
+   "age": 30
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 78,
+   "diastolic": 50,
+   "triceps": 32,
+   "insulin": 88,
+   "bmi": 31,
+   "dpf": 0.248,
+   "age": 26
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 115,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.3,
+   "dpf": 0.134,
+   "age": 29
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 197,
+   "diastolic": 70,
+   "triceps": 45,
+   "insulin": 543,
+   "bmi": 30.5,
+   "dpf": 0.158,
+   "age": 53
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 125,
+   "diastolic": 96,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.232,
+   "age": 54
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 110,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.6,
+   "dpf": 0.191,
+   "age": 30
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 168,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 38,
+   "dpf": 0.537,
+   "age": 34
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 139,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.1,
+   "dpf": 1.441,
+   "age": 57
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 189,
+   "diastolic": 60,
+   "triceps": 23,
+   "insulin": 846,
+   "bmi": 30.1,
+   "dpf": 0.398,
+   "age": 59
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 166,
+   "diastolic": 72,
+   "triceps": 19,
+   "insulin": 175,
+   "bmi": 25.8,
+   "dpf": 0.587,
+   "age": 51
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 100,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30,
+   "dpf": 0.484,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 118,
+   "diastolic": 84,
+   "triceps": 47,
+   "insulin": 230,
+   "bmi": 45.8,
+   "dpf": 0.551,
+   "age": 31
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 107,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.6,
+   "dpf": 0.254,
+   "age": 31
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 103,
+   "diastolic": 30,
+   "triceps": 38,
+   "insulin": 83,
+   "bmi": 43.3,
+   "dpf": 0.183,
+   "age": 33
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 115,
+   "diastolic": 70,
+   "triceps": 30,
+   "insulin": 96,
+   "bmi": 34.6,
+   "dpf": 0.529,
+   "age": 32
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 126,
+   "diastolic": 88,
+   "triceps": 41,
+   "insulin": 235,
+   "bmi": 39.3,
+   "dpf": 0.704,
+   "age": 27
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 99,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.4,
+   "dpf": 0.388,
+   "age": 50
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 196,
+   "diastolic": 90,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.8,
+   "dpf": 0.451,
+   "age": 41
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 119,
+   "diastolic": 80,
+   "triceps": 35,
+   "insulin": 0,
+   "bmi": 29,
+   "dpf": 0.263,
+   "age": 29
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 143,
+   "diastolic": 94,
+   "triceps": 33,
+   "insulin": 146,
+   "bmi": 36.6,
+   "dpf": 0.254,
+   "age": 51
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 125,
+   "diastolic": 70,
+   "triceps": 26,
+   "insulin": 115,
+   "bmi": 31.1,
+   "dpf": 0.205,
+   "age": 41
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 147,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.4,
+   "dpf": 0.257,
+   "age": 43
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 97,
+   "diastolic": 66,
+   "triceps": 15,
+   "insulin": 140,
+   "bmi": 23.2,
+   "dpf": 0.487,
+   "age": 22
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 145,
+   "diastolic": 82,
+   "triceps": 19,
+   "insulin": 110,
+   "bmi": 22.2,
+   "dpf": 0.245,
+   "age": 57
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 117,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.1,
+   "dpf": 0.337,
+   "age": 38
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 109,
+   "diastolic": 75,
+   "triceps": 26,
+   "insulin": 0,
+   "bmi": 36,
+   "dpf": 0.546,
+   "age": 60
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 158,
+   "diastolic": 76,
+   "triceps": 36,
+   "insulin": 245,
+   "bmi": 31.6,
+   "dpf": 0.851,
+   "age": 28
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 88,
+   "diastolic": 58,
+   "triceps": 11,
+   "insulin": 54,
+   "bmi": 24.8,
+   "dpf": 0.267,
+   "age": 22
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 92,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 19.9,
+   "dpf": 0.188,
+   "age": 28
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 122,
+   "diastolic": 78,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 27.6,
+   "dpf": 0.512,
+   "age": 45
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 103,
+   "diastolic": 60,
+   "triceps": 33,
+   "insulin": 192,
+   "bmi": 24,
+   "dpf": 0.966,
+   "age": 33
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 138,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.2,
+   "dpf": 0.42,
+   "age": 35
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 102,
+   "diastolic": 76,
+   "triceps": 37,
+   "insulin": 0,
+   "bmi": 32.9,
+   "dpf": 0.665,
+   "age": 46
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 90,
+   "diastolic": 68,
+   "triceps": 42,
+   "insulin": 0,
+   "bmi": 38.2,
+   "dpf": 0.503,
+   "age": 27
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 111,
+   "diastolic": 72,
+   "triceps": 47,
+   "insulin": 207,
+   "bmi": 37.1,
+   "dpf": 1.39,
+   "age": 56
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 180,
+   "diastolic": 64,
+   "triceps": 25,
+   "insulin": 70,
+   "bmi": 34,
+   "dpf": 0.271,
+   "age": 26
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 133,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 40.2,
+   "dpf": 0.696,
+   "age": 37
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 106,
+   "diastolic": 92,
+   "triceps": 18,
+   "insulin": 0,
+   "bmi": 22.7,
+   "dpf": 0.235,
+   "age": 48
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 171,
+   "diastolic": 110,
+   "triceps": 24,
+   "insulin": 240,
+   "bmi": 45.4,
+   "dpf": 0.721,
+   "age": 54
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 159,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.4,
+   "dpf": 0.294,
+   "age": 40
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 180,
+   "diastolic": 66,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 42,
+   "dpf": 1.893,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 146,
+   "diastolic": 56,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.7,
+   "dpf": 0.564,
+   "age": 29
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 71,
+   "diastolic": 70,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 28,
+   "dpf": 0.586,
+   "age": 22
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 103,
+   "diastolic": 66,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 39.1,
+   "dpf": 0.344,
+   "age": 31
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 105,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.305,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 103,
+   "diastolic": 80,
+   "triceps": 11,
+   "insulin": 82,
+   "bmi": 19.4,
+   "dpf": 0.491,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 101,
+   "diastolic": 50,
+   "triceps": 15,
+   "insulin": 36,
+   "bmi": 24.2,
+   "dpf": 0.526,
+   "age": 26
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 88,
+   "diastolic": 66,
+   "triceps": 21,
+   "insulin": 23,
+   "bmi": 24.4,
+   "dpf": 0.342,
+   "age": 30
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 176,
+   "diastolic": 90,
+   "triceps": 34,
+   "insulin": 300,
+   "bmi": 33.7,
+   "dpf": 0.467,
+   "age": 58
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 150,
+   "diastolic": 66,
+   "triceps": 42,
+   "insulin": 342,
+   "bmi": 34.7,
+   "dpf": 0.718,
+   "age": 42
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 73,
+   "diastolic": 50,
+   "triceps": 10,
+   "insulin": 0,
+   "bmi": 23,
+   "dpf": 0.248,
+   "age": 21
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 187,
+   "diastolic": 68,
+   "triceps": 39,
+   "insulin": 304,
+   "bmi": 37.7,
+   "dpf": 0.254,
+   "age": 41
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 100,
+   "diastolic": 88,
+   "triceps": 60,
+   "insulin": 110,
+   "bmi": 46.8,
+   "dpf": 0.962,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 146,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 40.5,
+   "dpf": 1.781,
+   "age": 44
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 105,
+   "diastolic": 64,
+   "triceps": 41,
+   "insulin": 142,
+   "bmi": 41.5,
+   "dpf": 0.173,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 84,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.304,
+   "age": 21
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 133,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.9,
+   "dpf": 0.27,
+   "age": 39
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 44,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25,
+   "dpf": 0.587,
+   "age": 36
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 141,
+   "diastolic": 58,
+   "triceps": 34,
+   "insulin": 128,
+   "bmi": 25.4,
+   "dpf": 0.699,
+   "age": 24
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 114,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.258,
+   "age": 42
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 99,
+   "diastolic": 74,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 29,
+   "dpf": 0.203,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 109,
+   "diastolic": 88,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 32.5,
+   "dpf": 0.855,
+   "age": 38
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 109,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.7,
+   "dpf": 0.845,
+   "age": 54
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 95,
+   "diastolic": 66,
+   "triceps": 13,
+   "insulin": 38,
+   "bmi": 19.6,
+   "dpf": 0.334,
+   "age": 25
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 146,
+   "diastolic": 85,
+   "triceps": 27,
+   "insulin": 100,
+   "bmi": 28.9,
+   "dpf": 0.189,
+   "age": 27
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 100,
+   "diastolic": 66,
+   "triceps": 20,
+   "insulin": 90,
+   "bmi": 32.9,
+   "dpf": 0.867,
+   "age": 28
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 139,
+   "diastolic": 64,
+   "triceps": 35,
+   "insulin": 140,
+   "bmi": 28.6,
+   "dpf": 0.411,
+   "age": 26
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 126,
+   "diastolic": 90,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 43.4,
+   "dpf": 0.583,
+   "age": 42
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 129,
+   "diastolic": 86,
+   "triceps": 20,
+   "insulin": 270,
+   "bmi": 35.1,
+   "dpf": 0.231,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 79,
+   "diastolic": 75,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.396,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 0,
+   "diastolic": 48,
+   "triceps": 20,
+   "insulin": 0,
+   "bmi": 24.7,
+   "dpf": 0.14,
+   "age": 22
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 62,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.6,
+   "dpf": 0.391,
+   "age": 41
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 95,
+   "diastolic": 72,
+   "triceps": 33,
+   "insulin": 0,
+   "bmi": 37.7,
+   "dpf": 0.37,
+   "age": 27
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 131,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 43.2,
+   "dpf": 0.27,
+   "age": 26
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 112,
+   "diastolic": 66,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 25,
+   "dpf": 0.307,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 113,
+   "diastolic": 44,
+   "triceps": 13,
+   "insulin": 0,
+   "bmi": 22.4,
+   "dpf": 0.14,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 74,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.102,
+   "age": 22
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 83,
+   "diastolic": 78,
+   "triceps": 26,
+   "insulin": 71,
+   "bmi": 29.3,
+   "dpf": 0.767,
+   "age": 36
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 101,
+   "diastolic": 65,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 24.6,
+   "dpf": 0.237,
+   "age": 22
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 137,
+   "diastolic": 108,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 48.8,
+   "dpf": 0.227,
+   "age": 37
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 110,
+   "diastolic": 74,
+   "triceps": 29,
+   "insulin": 125,
+   "bmi": 32.4,
+   "dpf": 0.698,
+   "age": 27
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 106,
+   "diastolic": 72,
+   "triceps": 54,
+   "insulin": 0,
+   "bmi": 36.6,
+   "dpf": 0.178,
+   "age": 45
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 100,
+   "diastolic": 68,
+   "triceps": 25,
+   "insulin": 71,
+   "bmi": 38.5,
+   "dpf": 0.324,
+   "age": 26
+ },
+ {
+   "pregnancies": 15,
+   "glucose": 136,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 110,
+   "bmi": 37.1,
+   "dpf": 0.153,
+   "age": 43
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 107,
+   "diastolic": 68,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 26.5,
+   "dpf": 0.165,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 80,
+   "diastolic": 55,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 19.1,
+   "dpf": 0.258,
+   "age": 21
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 123,
+   "diastolic": 80,
+   "triceps": 15,
+   "insulin": 176,
+   "bmi": 32,
+   "dpf": 0.443,
+   "age": 34
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 81,
+   "diastolic": 78,
+   "triceps": 40,
+   "insulin": 48,
+   "bmi": 46.7,
+   "dpf": 0.261,
+   "age": 42
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 134,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.8,
+   "dpf": 0.277,
+   "age": 60
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 142,
+   "diastolic": 82,
+   "triceps": 18,
+   "insulin": 64,
+   "bmi": 24.7,
+   "dpf": 0.761,
+   "age": 21
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 144,
+   "diastolic": 72,
+   "triceps": 27,
+   "insulin": 228,
+   "bmi": 33.9,
+   "dpf": 0.255,
+   "age": 40
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 92,
+   "diastolic": 62,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.13,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 71,
+   "diastolic": 48,
+   "triceps": 18,
+   "insulin": 76,
+   "bmi": 20.4,
+   "dpf": 0.323,
+   "age": 22
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 93,
+   "diastolic": 50,
+   "triceps": 30,
+   "insulin": 64,
+   "bmi": 28.7,
+   "dpf": 0.356,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 122,
+   "diastolic": 90,
+   "triceps": 51,
+   "insulin": 220,
+   "bmi": 49.7,
+   "dpf": 0.325,
+   "age": 31
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 163,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39,
+   "dpf": 1.222,
+   "age": 33
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 151,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.1,
+   "dpf": 0.179,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 125,
+   "diastolic": 96,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.5,
+   "dpf": 0.262,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 81,
+   "diastolic": 72,
+   "triceps": 18,
+   "insulin": 40,
+   "bmi": 26.6,
+   "dpf": 0.283,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 85,
+   "diastolic": 65,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.6,
+   "dpf": 0.93,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 126,
+   "diastolic": 56,
+   "triceps": 29,
+   "insulin": 152,
+   "bmi": 28.7,
+   "dpf": 0.801,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 96,
+   "diastolic": 122,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.4,
+   "dpf": 0.207,
+   "age": 27
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 144,
+   "diastolic": 58,
+   "triceps": 28,
+   "insulin": 140,
+   "bmi": 29.5,
+   "dpf": 0.287,
+   "age": 37
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 83,
+   "diastolic": 58,
+   "triceps": 31,
+   "insulin": 18,
+   "bmi": 34.3,
+   "dpf": 0.336,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 95,
+   "diastolic": 85,
+   "triceps": 25,
+   "insulin": 36,
+   "bmi": 37.4,
+   "dpf": 0.247,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 171,
+   "diastolic": 72,
+   "triceps": 33,
+   "insulin": 135,
+   "bmi": 33.3,
+   "dpf": 0.199,
+   "age": 24
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 155,
+   "diastolic": 62,
+   "triceps": 26,
+   "insulin": 495,
+   "bmi": 34,
+   "dpf": 0.543,
+   "age": 46
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 89,
+   "diastolic": 76,
+   "triceps": 34,
+   "insulin": 37,
+   "bmi": 31.2,
+   "dpf": 0.192,
+   "age": 23
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 76,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34,
+   "dpf": 0.391,
+   "age": 25
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 160,
+   "diastolic": 54,
+   "triceps": 32,
+   "insulin": 175,
+   "bmi": 30.5,
+   "dpf": 0.588,
+   "age": 39
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 146,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.539,
+   "age": 61
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 124,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34,
+   "dpf": 0.22,
+   "age": 38
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 78,
+   "diastolic": 48,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.7,
+   "dpf": 0.654,
+   "age": 25
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 97,
+   "diastolic": 60,
+   "triceps": 23,
+   "insulin": 0,
+   "bmi": 28.2,
+   "dpf": 0.443,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 99,
+   "diastolic": 76,
+   "triceps": 15,
+   "insulin": 51,
+   "bmi": 23.2,
+   "dpf": 0.223,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 162,
+   "diastolic": 76,
+   "triceps": 56,
+   "insulin": 100,
+   "bmi": 53.2,
+   "dpf": 0.759,
+   "age": 25
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 111,
+   "diastolic": 64,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 34.2,
+   "dpf": 0.26,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 107,
+   "diastolic": 74,
+   "triceps": 30,
+   "insulin": 100,
+   "bmi": 33.6,
+   "dpf": 0.404,
+   "age": 23
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 132,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.8,
+   "dpf": 0.186,
+   "age": 69
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 113,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.3,
+   "dpf": 0.278,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 88,
+   "diastolic": 30,
+   "triceps": 42,
+   "insulin": 99,
+   "bmi": 55,
+   "dpf": 0.496,
+   "age": 26
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 120,
+   "diastolic": 70,
+   "triceps": 30,
+   "insulin": 135,
+   "bmi": 42.9,
+   "dpf": 0.452,
+   "age": 30
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 118,
+   "diastolic": 58,
+   "triceps": 36,
+   "insulin": 94,
+   "bmi": 33.3,
+   "dpf": 0.261,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 117,
+   "diastolic": 88,
+   "triceps": 24,
+   "insulin": 145,
+   "bmi": 34.5,
+   "dpf": 0.403,
+   "age": 40
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 105,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.9,
+   "dpf": 0.741,
+   "age": 62
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 173,
+   "diastolic": 70,
+   "triceps": 14,
+   "insulin": 168,
+   "bmi": 29.7,
+   "dpf": 0.361,
+   "age": 33
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 122,
+   "diastolic": 56,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.3,
+   "dpf": 1.114,
+   "age": 33
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 170,
+   "diastolic": 64,
+   "triceps": 37,
+   "insulin": 225,
+   "bmi": 34.5,
+   "dpf": 0.356,
+   "age": 30
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 84,
+   "diastolic": 74,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 38.3,
+   "dpf": 0.457,
+   "age": 39
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 96,
+   "diastolic": 68,
+   "triceps": 13,
+   "insulin": 49,
+   "bmi": 21.1,
+   "dpf": 0.647,
+   "age": 26
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 125,
+   "diastolic": 60,
+   "triceps": 20,
+   "insulin": 140,
+   "bmi": 33.8,
+   "dpf": 0.088,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 100,
+   "diastolic": 70,
+   "triceps": 26,
+   "insulin": 50,
+   "bmi": 30.8,
+   "dpf": 0.597,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 93,
+   "diastolic": 60,
+   "triceps": 25,
+   "insulin": 92,
+   "bmi": 28.7,
+   "dpf": 0.532,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 129,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.703,
+   "age": 29
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 105,
+   "diastolic": 72,
+   "triceps": 29,
+   "insulin": 325,
+   "bmi": 36.9,
+   "dpf": 0.159,
+   "age": 28
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 128,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.1,
+   "dpf": 0.268,
+   "age": 55
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 106,
+   "diastolic": 82,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 39.5,
+   "dpf": 0.286,
+   "age": 38
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 108,
+   "diastolic": 52,
+   "triceps": 26,
+   "insulin": 63,
+   "bmi": 32.5,
+   "dpf": 0.318,
+   "age": 22
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 108,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.272,
+   "age": 42
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 154,
+   "diastolic": 62,
+   "triceps": 31,
+   "insulin": 284,
+   "bmi": 32.8,
+   "dpf": 0.237,
+   "age": 23
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 102,
+   "diastolic": 75,
+   "triceps": 23,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.572,
+   "age": 21
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 57,
+   "diastolic": 80,
+   "triceps": 37,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.096,
+   "age": 41
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 106,
+   "diastolic": 64,
+   "triceps": 35,
+   "insulin": 119,
+   "bmi": 30.5,
+   "dpf": 1.4,
+   "age": 34
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 147,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.7,
+   "dpf": 0.218,
+   "age": 65
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 90,
+   "diastolic": 70,
+   "triceps": 17,
+   "insulin": 0,
+   "bmi": 27.3,
+   "dpf": 0.085,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 136,
+   "diastolic": 74,
+   "triceps": 50,
+   "insulin": 204,
+   "bmi": 37.4,
+   "dpf": 0.399,
+   "age": 24
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 114,
+   "diastolic": 65,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.9,
+   "dpf": 0.432,
+   "age": 37
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 156,
+   "diastolic": 86,
+   "triceps": 28,
+   "insulin": 155,
+   "bmi": 34.3,
+   "dpf": 1.189,
+   "age": 42
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 153,
+   "diastolic": 82,
+   "triceps": 42,
+   "insulin": 485,
+   "bmi": 40.6,
+   "dpf": 0.687,
+   "age": 23
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 188,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 47.9,
+   "dpf": 0.137,
+   "age": 43
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 152,
+   "diastolic": 88,
+   "triceps": 44,
+   "insulin": 0,
+   "bmi": 50,
+   "dpf": 0.337,
+   "age": 36
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 99,
+   "diastolic": 52,
+   "triceps": 15,
+   "insulin": 94,
+   "bmi": 24.6,
+   "dpf": 0.637,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 109,
+   "diastolic": 56,
+   "triceps": 21,
+   "insulin": 135,
+   "bmi": 25.2,
+   "dpf": 0.833,
+   "age": 23
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 88,
+   "diastolic": 74,
+   "triceps": 19,
+   "insulin": 53,
+   "bmi": 29,
+   "dpf": 0.229,
+   "age": 22
+ },
+ {
+   "pregnancies": 17,
+   "glucose": 163,
+   "diastolic": 72,
+   "triceps": 41,
+   "insulin": 114,
+   "bmi": 40.9,
+   "dpf": 0.817,
+   "age": 47
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 151,
+   "diastolic": 90,
+   "triceps": 38,
+   "insulin": 0,
+   "bmi": 29.7,
+   "dpf": 0.294,
+   "age": 36
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 102,
+   "diastolic": 74,
+   "triceps": 40,
+   "insulin": 105,
+   "bmi": 37.2,
+   "dpf": 0.204,
+   "age": 45
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 114,
+   "diastolic": 80,
+   "triceps": 34,
+   "insulin": 285,
+   "bmi": 44.2,
+   "dpf": 0.167,
+   "age": 27
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 100,
+   "diastolic": 64,
+   "triceps": 23,
+   "insulin": 0,
+   "bmi": 29.7,
+   "dpf": 0.368,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 131,
+   "diastolic": 88,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.743,
+   "age": 32
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 104,
+   "diastolic": 74,
+   "triceps": 18,
+   "insulin": 156,
+   "bmi": 29.9,
+   "dpf": 0.722,
+   "age": 41
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 148,
+   "diastolic": 66,
+   "triceps": 25,
+   "insulin": 0,
+   "bmi": 32.5,
+   "dpf": 0.256,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 120,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.6,
+   "dpf": 0.709,
+   "age": 34
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 110,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.9,
+   "dpf": 0.471,
+   "age": 29
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 111,
+   "diastolic": 90,
+   "triceps": 12,
+   "insulin": 78,
+   "bmi": 28.4,
+   "dpf": 0.495,
+   "age": 29
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 102,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.8,
+   "dpf": 0.18,
+   "age": 36
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 134,
+   "diastolic": 70,
+   "triceps": 23,
+   "insulin": 130,
+   "bmi": 35.4,
+   "dpf": 0.542,
+   "age": 29
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 87,
+   "diastolic": 0,
+   "triceps": 23,
+   "insulin": 0,
+   "bmi": 28.9,
+   "dpf": 0.773,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 79,
+   "diastolic": 60,
+   "triceps": 42,
+   "insulin": 48,
+   "bmi": 43.5,
+   "dpf": 0.678,
+   "age": 23
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 75,
+   "diastolic": 64,
+   "triceps": 24,
+   "insulin": 55,
+   "bmi": 29.7,
+   "dpf": 0.37,
+   "age": 33
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 179,
+   "diastolic": 72,
+   "triceps": 42,
+   "insulin": 130,
+   "bmi": 32.7,
+   "dpf": 0.719,
+   "age": 36
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 85,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.382,
+   "age": 42
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 129,
+   "diastolic": 110,
+   "triceps": 46,
+   "insulin": 130,
+   "bmi": 67.1,
+   "dpf": 0.319,
+   "age": 26
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 143,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 45,
+   "dpf": 0.19,
+   "age": 47
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 130,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.1,
+   "dpf": 0.956,
+   "age": 37
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 87,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.2,
+   "dpf": 0.084,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 119,
+   "diastolic": 64,
+   "triceps": 18,
+   "insulin": 92,
+   "bmi": 34.9,
+   "dpf": 0.725,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 0,
+   "diastolic": 74,
+   "triceps": 20,
+   "insulin": 23,
+   "bmi": 27.7,
+   "dpf": 0.299,
+   "age": 21
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 73,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.8,
+   "dpf": 0.268,
+   "age": 27
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 141,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.6,
+   "dpf": 0.244,
+   "age": 40
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 194,
+   "diastolic": 68,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 35.9,
+   "dpf": 0.745,
+   "age": 41
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 181,
+   "diastolic": 68,
+   "triceps": 36,
+   "insulin": 495,
+   "bmi": 30.1,
+   "dpf": 0.615,
+   "age": 60
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 128,
+   "diastolic": 98,
+   "triceps": 41,
+   "insulin": 58,
+   "bmi": 32,
+   "dpf": 1.321,
+   "age": 33
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 109,
+   "diastolic": 76,
+   "triceps": 39,
+   "insulin": 114,
+   "bmi": 27.9,
+   "dpf": 0.64,
+   "age": 31
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 139,
+   "diastolic": 80,
+   "triceps": 35,
+   "insulin": 160,
+   "bmi": 31.6,
+   "dpf": 0.361,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 111,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.6,
+   "dpf": 0.142,
+   "age": 21
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 123,
+   "diastolic": 70,
+   "triceps": 44,
+   "insulin": 94,
+   "bmi": 33.1,
+   "dpf": 0.374,
+   "age": 40
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 159,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.4,
+   "dpf": 0.383,
+   "age": 36
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 135,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 52.3,
+   "dpf": 0.578,
+   "age": 40
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 85,
+   "diastolic": 55,
+   "triceps": 20,
+   "insulin": 0,
+   "bmi": 24.4,
+   "dpf": 0.136,
+   "age": 42
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 158,
+   "diastolic": 84,
+   "triceps": 41,
+   "insulin": 210,
+   "bmi": 39.4,
+   "dpf": 0.395,
+   "age": 29
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 105,
+   "diastolic": 58,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.3,
+   "dpf": 0.187,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 107,
+   "diastolic": 62,
+   "triceps": 13,
+   "insulin": 48,
+   "bmi": 22.9,
+   "dpf": 0.678,
+   "age": 23
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 109,
+   "diastolic": 64,
+   "triceps": 44,
+   "insulin": 99,
+   "bmi": 34.8,
+   "dpf": 0.905,
+   "age": 26
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 148,
+   "diastolic": 60,
+   "triceps": 27,
+   "insulin": 318,
+   "bmi": 30.9,
+   "dpf": 0.15,
+   "age": 29
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 113,
+   "diastolic": 80,
+   "triceps": 16,
+   "insulin": 0,
+   "bmi": 31,
+   "dpf": 0.874,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 138,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 40.1,
+   "dpf": 0.236,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 108,
+   "diastolic": 68,
+   "triceps": 20,
+   "insulin": 0,
+   "bmi": 27.3,
+   "dpf": 0.787,
+   "age": 32
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 99,
+   "diastolic": 70,
+   "triceps": 16,
+   "insulin": 44,
+   "bmi": 20.4,
+   "dpf": 0.235,
+   "age": 27
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 103,
+   "diastolic": 72,
+   "triceps": 32,
+   "insulin": 190,
+   "bmi": 37.7,
+   "dpf": 0.324,
+   "age": 55
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 111,
+   "diastolic": 72,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 23.9,
+   "dpf": 0.407,
+   "age": 27
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 196,
+   "diastolic": 76,
+   "triceps": 29,
+   "insulin": 280,
+   "bmi": 37.5,
+   "dpf": 0.605,
+   "age": 57
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 162,
+   "diastolic": 104,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.7,
+   "dpf": 0.151,
+   "age": 52
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 96,
+   "diastolic": 64,
+   "triceps": 27,
+   "insulin": 87,
+   "bmi": 33.2,
+   "dpf": 0.289,
+   "age": 21
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 184,
+   "diastolic": 84,
+   "triceps": 33,
+   "insulin": 0,
+   "bmi": 35.5,
+   "dpf": 0.355,
+   "age": 41
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 81,
+   "diastolic": 60,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 27.7,
+   "dpf": 0.29,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 147,
+   "diastolic": 85,
+   "triceps": 54,
+   "insulin": 0,
+   "bmi": 42.8,
+   "dpf": 0.375,
+   "age": 24
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 179,
+   "diastolic": 95,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 34.2,
+   "dpf": 0.164,
+   "age": 60
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 140,
+   "diastolic": 65,
+   "triceps": 26,
+   "insulin": 130,
+   "bmi": 42.6,
+   "dpf": 0.431,
+   "age": 24
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 112,
+   "diastolic": 82,
+   "triceps": 32,
+   "insulin": 175,
+   "bmi": 34.2,
+   "dpf": 0.26,
+   "age": 36
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 151,
+   "diastolic": 70,
+   "triceps": 40,
+   "insulin": 271,
+   "bmi": 41.8,
+   "dpf": 0.742,
+   "age": 38
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 109,
+   "diastolic": 62,
+   "triceps": 41,
+   "insulin": 129,
+   "bmi": 35.8,
+   "dpf": 0.514,
+   "age": 25
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 125,
+   "diastolic": 68,
+   "triceps": 30,
+   "insulin": 120,
+   "bmi": 30,
+   "dpf": 0.464,
+   "age": 32
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 85,
+   "diastolic": 74,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 29,
+   "dpf": 1.224,
+   "age": 32
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 112,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.8,
+   "dpf": 0.261,
+   "age": 41
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 177,
+   "diastolic": 60,
+   "triceps": 29,
+   "insulin": 478,
+   "bmi": 34.6,
+   "dpf": 1.072,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 158,
+   "diastolic": 90,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.805,
+   "age": 66
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 119,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.2,
+   "dpf": 0.209,
+   "age": 37
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 142,
+   "diastolic": 60,
+   "triceps": 33,
+   "insulin": 190,
+   "bmi": 28.8,
+   "dpf": 0.687,
+   "age": 61
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 100,
+   "diastolic": 66,
+   "triceps": 15,
+   "insulin": 56,
+   "bmi": 23.6,
+   "dpf": 0.666,
+   "age": 26
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 87,
+   "diastolic": 78,
+   "triceps": 27,
+   "insulin": 32,
+   "bmi": 34.6,
+   "dpf": 0.101,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 101,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.7,
+   "dpf": 0.198,
+   "age": 26
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 162,
+   "diastolic": 52,
+   "triceps": 38,
+   "insulin": 0,
+   "bmi": 37.2,
+   "dpf": 0.652,
+   "age": 24
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 197,
+   "diastolic": 70,
+   "triceps": 39,
+   "insulin": 744,
+   "bmi": 36.7,
+   "dpf": 2.329,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 117,
+   "diastolic": 80,
+   "triceps": 31,
+   "insulin": 53,
+   "bmi": 45.2,
+   "dpf": 0.089,
+   "age": 24
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 142,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 44,
+   "dpf": 0.645,
+   "age": 22
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 134,
+   "diastolic": 80,
+   "triceps": 37,
+   "insulin": 370,
+   "bmi": 46.2,
+   "dpf": 0.238,
+   "age": 46
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 79,
+   "diastolic": 80,
+   "triceps": 25,
+   "insulin": 37,
+   "bmi": 25.4,
+   "dpf": 0.583,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 122,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35,
+   "dpf": 0.394,
+   "age": 29
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 74,
+   "diastolic": 68,
+   "triceps": 28,
+   "insulin": 45,
+   "bmi": 29.7,
+   "dpf": 0.293,
+   "age": 23
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 171,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 43.6,
+   "dpf": 0.479,
+   "age": 26
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 181,
+   "diastolic": 84,
+   "triceps": 21,
+   "insulin": 192,
+   "bmi": 35.9,
+   "dpf": 0.586,
+   "age": 51
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 179,
+   "diastolic": 90,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 44.1,
+   "dpf": 0.686,
+   "age": 23
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 164,
+   "diastolic": 84,
+   "triceps": 21,
+   "insulin": 0,
+   "bmi": 30.8,
+   "dpf": 0.831,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 104,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 18.4,
+   "dpf": 0.582,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 91,
+   "diastolic": 64,
+   "triceps": 24,
+   "insulin": 0,
+   "bmi": 29.2,
+   "dpf": 0.192,
+   "age": 21
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 91,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 88,
+   "bmi": 33.1,
+   "dpf": 0.446,
+   "age": 22
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 139,
+   "diastolic": 54,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.6,
+   "dpf": 0.402,
+   "age": 22
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 119,
+   "diastolic": 50,
+   "triceps": 22,
+   "insulin": 176,
+   "bmi": 27.1,
+   "dpf": 1.318,
+   "age": 33
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 146,
+   "diastolic": 76,
+   "triceps": 35,
+   "insulin": 194,
+   "bmi": 38.2,
+   "dpf": 0.329,
+   "age": 29
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 184,
+   "diastolic": 85,
+   "triceps": 15,
+   "insulin": 0,
+   "bmi": 30,
+   "dpf": 1.213,
+   "age": 49
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 122,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.258,
+   "age": 41
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 165,
+   "diastolic": 90,
+   "triceps": 33,
+   "insulin": 680,
+   "bmi": 52.3,
+   "dpf": 0.427,
+   "age": 23
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 124,
+   "diastolic": 70,
+   "triceps": 33,
+   "insulin": 402,
+   "bmi": 35.4,
+   "dpf": 0.282,
+   "age": 34
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 111,
+   "diastolic": 86,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 30.1,
+   "dpf": 0.143,
+   "age": 23
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 106,
+   "diastolic": 52,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.38,
+   "age": 42
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 129,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28,
+   "dpf": 0.284,
+   "age": 27
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 90,
+   "diastolic": 80,
+   "triceps": 14,
+   "insulin": 55,
+   "bmi": 24.4,
+   "dpf": 0.249,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 86,
+   "diastolic": 68,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 35.8,
+   "dpf": 0.238,
+   "age": 25
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 92,
+   "diastolic": 62,
+   "triceps": 7,
+   "insulin": 258,
+   "bmi": 27.6,
+   "dpf": 0.926,
+   "age": 44
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 113,
+   "diastolic": 64,
+   "triceps": 35,
+   "insulin": 0,
+   "bmi": 33.6,
+   "dpf": 0.543,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 111,
+   "diastolic": 56,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 30.1,
+   "dpf": 0.557,
+   "age": 30
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 114,
+   "diastolic": 68,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 28.7,
+   "dpf": 0.092,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 193,
+   "diastolic": 50,
+   "triceps": 16,
+   "insulin": 375,
+   "bmi": 25.9,
+   "dpf": 0.655,
+   "age": 24
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 155,
+   "diastolic": 76,
+   "triceps": 28,
+   "insulin": 150,
+   "bmi": 33.3,
+   "dpf": 1.353,
+   "age": 51
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 191,
+   "diastolic": 68,
+   "triceps": 15,
+   "insulin": 130,
+   "bmi": 30.9,
+   "dpf": 0.299,
+   "age": 34
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 141,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30,
+   "dpf": 0.761,
+   "age": 27
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 95,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 32.1,
+   "dpf": 0.612,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 142,
+   "diastolic": 80,
+   "triceps": 15,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.2,
+   "age": 63
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 123,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.226,
+   "age": 35
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 96,
+   "diastolic": 74,
+   "triceps": 18,
+   "insulin": 67,
+   "bmi": 33.6,
+   "dpf": 0.997,
+   "age": 43
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 138,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36.3,
+   "dpf": 0.933,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 128,
+   "diastolic": 64,
+   "triceps": 42,
+   "insulin": 0,
+   "bmi": 40,
+   "dpf": 1.101,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 102,
+   "diastolic": 52,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.1,
+   "dpf": 0.078,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 146,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.5,
+   "dpf": 0.24,
+   "age": 28
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 101,
+   "diastolic": 86,
+   "triceps": 37,
+   "insulin": 0,
+   "bmi": 45.6,
+   "dpf": 1.136,
+   "age": 38
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 108,
+   "diastolic": 62,
+   "triceps": 32,
+   "insulin": 56,
+   "bmi": 25.2,
+   "dpf": 0.128,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 122,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23,
+   "dpf": 0.254,
+   "age": 40
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 71,
+   "diastolic": 78,
+   "triceps": 50,
+   "insulin": 45,
+   "bmi": 33.2,
+   "dpf": 0.422,
+   "age": 21
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 106,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.2,
+   "dpf": 0.251,
+   "age": 52
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 100,
+   "diastolic": 70,
+   "triceps": 52,
+   "insulin": 57,
+   "bmi": 40.5,
+   "dpf": 0.677,
+   "age": 25
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 106,
+   "diastolic": 60,
+   "triceps": 24,
+   "insulin": 0,
+   "bmi": 26.5,
+   "dpf": 0.296,
+   "age": 29
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 104,
+   "diastolic": 64,
+   "triceps": 23,
+   "insulin": 116,
+   "bmi": 27.8,
+   "dpf": 0.454,
+   "age": 23
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 114,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.9,
+   "dpf": 0.744,
+   "age": 57
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 108,
+   "diastolic": 62,
+   "triceps": 10,
+   "insulin": 278,
+   "bmi": 25.3,
+   "dpf": 0.881,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 146,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.9,
+   "dpf": 0.334,
+   "age": 28
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 129,
+   "diastolic": 76,
+   "triceps": 28,
+   "insulin": 122,
+   "bmi": 35.9,
+   "dpf": 0.28,
+   "age": 39
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 133,
+   "diastolic": 88,
+   "triceps": 15,
+   "insulin": 155,
+   "bmi": 32.4,
+   "dpf": 0.262,
+   "age": 37
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 161,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.4,
+   "dpf": 0.165,
+   "age": 47
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 108,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27,
+   "dpf": 0.259,
+   "age": 52
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 136,
+   "diastolic": 74,
+   "triceps": 26,
+   "insulin": 135,
+   "bmi": 26,
+   "dpf": 0.647,
+   "age": 51
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 155,
+   "diastolic": 84,
+   "triceps": 44,
+   "insulin": 545,
+   "bmi": 38.7,
+   "dpf": 0.619,
+   "age": 34
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 119,
+   "diastolic": 86,
+   "triceps": 39,
+   "insulin": 220,
+   "bmi": 45.6,
+   "dpf": 0.808,
+   "age": 29
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 96,
+   "diastolic": 56,
+   "triceps": 17,
+   "insulin": 49,
+   "bmi": 20.8,
+   "dpf": 0.34,
+   "age": 26
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 108,
+   "diastolic": 72,
+   "triceps": 43,
+   "insulin": 75,
+   "bmi": 36.1,
+   "dpf": 0.263,
+   "age": 33
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 78,
+   "diastolic": 88,
+   "triceps": 29,
+   "insulin": 40,
+   "bmi": 36.9,
+   "dpf": 0.434,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 107,
+   "diastolic": 62,
+   "triceps": 30,
+   "insulin": 74,
+   "bmi": 36.6,
+   "dpf": 0.757,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 128,
+   "diastolic": 78,
+   "triceps": 37,
+   "insulin": 182,
+   "bmi": 43.3,
+   "dpf": 1.224,
+   "age": 31
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 128,
+   "diastolic": 48,
+   "triceps": 45,
+   "insulin": 194,
+   "bmi": 40.5,
+   "dpf": 0.613,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 161,
+   "diastolic": 50,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.9,
+   "dpf": 0.254,
+   "age": 65
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 151,
+   "diastolic": 62,
+   "triceps": 31,
+   "insulin": 120,
+   "bmi": 35.5,
+   "dpf": 0.692,
+   "age": 28
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 146,
+   "diastolic": 70,
+   "triceps": 38,
+   "insulin": 360,
+   "bmi": 28,
+   "dpf": 0.337,
+   "age": 29
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 126,
+   "diastolic": 84,
+   "triceps": 29,
+   "insulin": 215,
+   "bmi": 30.7,
+   "dpf": 0.52,
+   "age": 24
+ },
+ {
+   "pregnancies": 14,
+   "glucose": 100,
+   "diastolic": 78,
+   "triceps": 25,
+   "insulin": 184,
+   "bmi": 36.6,
+   "dpf": 0.412,
+   "age": 46
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 112,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.6,
+   "dpf": 0.84,
+   "age": 58
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 167,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.3,
+   "dpf": 0.839,
+   "age": 30
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 144,
+   "diastolic": 58,
+   "triceps": 33,
+   "insulin": 135,
+   "bmi": 31.6,
+   "dpf": 0.422,
+   "age": 25
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 77,
+   "diastolic": 82,
+   "triceps": 41,
+   "insulin": 42,
+   "bmi": 35.8,
+   "dpf": 0.156,
+   "age": 35
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 115,
+   "diastolic": 98,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 52.9,
+   "dpf": 0.209,
+   "age": 28
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 150,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21,
+   "dpf": 0.207,
+   "age": 37
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 120,
+   "diastolic": 76,
+   "triceps": 37,
+   "insulin": 105,
+   "bmi": 39.7,
+   "dpf": 0.215,
+   "age": 29
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 161,
+   "diastolic": 68,
+   "triceps": 23,
+   "insulin": 132,
+   "bmi": 25.5,
+   "dpf": 0.326,
+   "age": 47
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 137,
+   "diastolic": 68,
+   "triceps": 14,
+   "insulin": 148,
+   "bmi": 24.8,
+   "dpf": 0.143,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 128,
+   "diastolic": 68,
+   "triceps": 19,
+   "insulin": 180,
+   "bmi": 30.5,
+   "dpf": 1.391,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 124,
+   "diastolic": 68,
+   "triceps": 28,
+   "insulin": 205,
+   "bmi": 32.9,
+   "dpf": 0.875,
+   "age": 30
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 80,
+   "diastolic": 66,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 26.2,
+   "dpf": 0.313,
+   "age": 41
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 106,
+   "diastolic": 70,
+   "triceps": 37,
+   "insulin": 148,
+   "bmi": 39.4,
+   "dpf": 0.605,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 155,
+   "diastolic": 74,
+   "triceps": 17,
+   "insulin": 96,
+   "bmi": 26.6,
+   "dpf": 0.433,
+   "age": 27
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 113,
+   "diastolic": 50,
+   "triceps": 10,
+   "insulin": 85,
+   "bmi": 29.5,
+   "dpf": 0.626,
+   "age": 25
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 109,
+   "diastolic": 80,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 35.9,
+   "dpf": 1.127,
+   "age": 43
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 112,
+   "diastolic": 68,
+   "triceps": 22,
+   "insulin": 94,
+   "bmi": 34.1,
+   "dpf": 0.315,
+   "age": 26
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 99,
+   "diastolic": 80,
+   "triceps": 11,
+   "insulin": 64,
+   "bmi": 19.3,
+   "dpf": 0.284,
+   "age": 30
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 182,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.5,
+   "dpf": 0.345,
+   "age": 29
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 115,
+   "diastolic": 66,
+   "triceps": 39,
+   "insulin": 140,
+   "bmi": 38.1,
+   "dpf": 0.15,
+   "age": 28
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 194,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.5,
+   "dpf": 0.129,
+   "age": 59
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 129,
+   "diastolic": 60,
+   "triceps": 12,
+   "insulin": 231,
+   "bmi": 27.5,
+   "dpf": 0.527,
+   "age": 31
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 112,
+   "diastolic": 74,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.197,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 124,
+   "diastolic": 70,
+   "triceps": 20,
+   "insulin": 0,
+   "bmi": 27.4,
+   "dpf": 0.254,
+   "age": 36
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 152,
+   "diastolic": 90,
+   "triceps": 33,
+   "insulin": 29,
+   "bmi": 26.8,
+   "dpf": 0.731,
+   "age": 43
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 112,
+   "diastolic": 75,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 35.7,
+   "dpf": 0.148,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 157,
+   "diastolic": 72,
+   "triceps": 21,
+   "insulin": 168,
+   "bmi": 25.6,
+   "dpf": 0.123,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 122,
+   "diastolic": 64,
+   "triceps": 32,
+   "insulin": 156,
+   "bmi": 35.1,
+   "dpf": 0.692,
+   "age": 30
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 179,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.1,
+   "dpf": 0.2,
+   "age": 37
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 102,
+   "diastolic": 86,
+   "triceps": 36,
+   "insulin": 120,
+   "bmi": 45.5,
+   "dpf": 0.127,
+   "age": 23
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 105,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 68,
+   "bmi": 30.8,
+   "dpf": 0.122,
+   "age": 37
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 118,
+   "diastolic": 72,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 23.1,
+   "dpf": 1.476,
+   "age": 46
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 87,
+   "diastolic": 58,
+   "triceps": 16,
+   "insulin": 52,
+   "bmi": 32.7,
+   "dpf": 0.166,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 180,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 43.3,
+   "dpf": 0.282,
+   "age": 41
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 106,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.6,
+   "dpf": 0.137,
+   "age": 44
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 95,
+   "diastolic": 60,
+   "triceps": 18,
+   "insulin": 58,
+   "bmi": 23.9,
+   "dpf": 0.26,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 165,
+   "diastolic": 76,
+   "triceps": 43,
+   "insulin": 255,
+   "bmi": 47.9,
+   "dpf": 0.259,
+   "age": 26
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 117,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.8,
+   "dpf": 0.932,
+   "age": 44
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 115,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.343,
+   "age": 44
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 152,
+   "diastolic": 78,
+   "triceps": 34,
+   "insulin": 171,
+   "bmi": 34.2,
+   "dpf": 0.893,
+   "age": 33
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 178,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.9,
+   "dpf": 0.331,
+   "age": 41
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 130,
+   "diastolic": 70,
+   "triceps": 13,
+   "insulin": 105,
+   "bmi": 25.9,
+   "dpf": 0.472,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 95,
+   "diastolic": 74,
+   "triceps": 21,
+   "insulin": 73,
+   "bmi": 25.9,
+   "dpf": 0.673,
+   "age": 36
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 0,
+   "diastolic": 68,
+   "triceps": 35,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.389,
+   "age": 22
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 122,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.7,
+   "dpf": 0.29,
+   "age": 33
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 95,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36.8,
+   "dpf": 0.485,
+   "age": 57
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 126,
+   "diastolic": 88,
+   "triceps": 36,
+   "insulin": 108,
+   "bmi": 38.5,
+   "dpf": 0.349,
+   "age": 49
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 139,
+   "diastolic": 46,
+   "triceps": 19,
+   "insulin": 83,
+   "bmi": 28.7,
+   "dpf": 0.654,
+   "age": 22
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 116,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.5,
+   "dpf": 0.187,
+   "age": 23
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 99,
+   "diastolic": 62,
+   "triceps": 19,
+   "insulin": 74,
+   "bmi": 21.8,
+   "dpf": 0.279,
+   "age": 26
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 0,
+   "diastolic": 80,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 41,
+   "dpf": 0.346,
+   "age": 37
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 92,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.2,
+   "dpf": 0.237,
+   "age": 29
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 137,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.252,
+   "age": 30
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 61,
+   "diastolic": 82,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 34.4,
+   "dpf": 0.243,
+   "age": 46
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 90,
+   "diastolic": 62,
+   "triceps": 12,
+   "insulin": 43,
+   "bmi": 27.2,
+   "dpf": 0.58,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 90,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.7,
+   "dpf": 0.559,
+   "age": 21
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 165,
+   "diastolic": 88,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.4,
+   "dpf": 0.302,
+   "age": 49
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 125,
+   "diastolic": 50,
+   "triceps": 40,
+   "insulin": 167,
+   "bmi": 33.3,
+   "dpf": 0.962,
+   "age": 28
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 129,
+   "diastolic": 0,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 39.9,
+   "dpf": 0.569,
+   "age": 44
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 88,
+   "diastolic": 74,
+   "triceps": 40,
+   "insulin": 54,
+   "bmi": 35.3,
+   "dpf": 0.378,
+   "age": 48
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 196,
+   "diastolic": 76,
+   "triceps": 36,
+   "insulin": 249,
+   "bmi": 36.5,
+   "dpf": 0.875,
+   "age": 29
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 189,
+   "diastolic": 64,
+   "triceps": 33,
+   "insulin": 325,
+   "bmi": 31.2,
+   "dpf": 0.583,
+   "age": 29
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 158,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.8,
+   "dpf": 0.207,
+   "age": 63
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 103,
+   "diastolic": 108,
+   "triceps": 37,
+   "insulin": 0,
+   "bmi": 39.2,
+   "dpf": 0.305,
+   "age": 65
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 146,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 38.5,
+   "dpf": 0.52,
+   "age": 67
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 147,
+   "diastolic": 74,
+   "triceps": 25,
+   "insulin": 293,
+   "bmi": 34.9,
+   "dpf": 0.385,
+   "age": 30
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 99,
+   "diastolic": 54,
+   "triceps": 28,
+   "insulin": 83,
+   "bmi": 34,
+   "dpf": 0.499,
+   "age": 30
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 124,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.6,
+   "dpf": 0.368,
+   "age": 29
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 101,
+   "diastolic": 64,
+   "triceps": 17,
+   "insulin": 0,
+   "bmi": 21,
+   "dpf": 0.252,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 81,
+   "diastolic": 86,
+   "triceps": 16,
+   "insulin": 66,
+   "bmi": 27.5,
+   "dpf": 0.306,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 133,
+   "diastolic": 102,
+   "triceps": 28,
+   "insulin": 140,
+   "bmi": 32.8,
+   "dpf": 0.234,
+   "age": 45
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 173,
+   "diastolic": 82,
+   "triceps": 48,
+   "insulin": 465,
+   "bmi": 38.4,
+   "dpf": 2.137,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 118,
+   "diastolic": 64,
+   "triceps": 23,
+   "insulin": 89,
+   "bmi": 0,
+   "dpf": 1.731,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 84,
+   "diastolic": 64,
+   "triceps": 22,
+   "insulin": 66,
+   "bmi": 35.8,
+   "dpf": 0.545,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 105,
+   "diastolic": 58,
+   "triceps": 40,
+   "insulin": 94,
+   "bmi": 34.9,
+   "dpf": 0.225,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 122,
+   "diastolic": 52,
+   "triceps": 43,
+   "insulin": 158,
+   "bmi": 36.2,
+   "dpf": 0.816,
+   "age": 28
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 140,
+   "diastolic": 82,
+   "triceps": 43,
+   "insulin": 325,
+   "bmi": 39.2,
+   "dpf": 0.528,
+   "age": 58
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 98,
+   "diastolic": 82,
+   "triceps": 15,
+   "insulin": 84,
+   "bmi": 25.2,
+   "dpf": 0.299,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 87,
+   "diastolic": 60,
+   "triceps": 37,
+   "insulin": 75,
+   "bmi": 37.2,
+   "dpf": 0.509,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 156,
+   "diastolic": 75,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 48.3,
+   "dpf": 0.238,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 93,
+   "diastolic": 100,
+   "triceps": 39,
+   "insulin": 72,
+   "bmi": 43.4,
+   "dpf": 1.021,
+   "age": 35
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 107,
+   "diastolic": 72,
+   "triceps": 30,
+   "insulin": 82,
+   "bmi": 30.8,
+   "dpf": 0.821,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 105,
+   "diastolic": 68,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 20,
+   "dpf": 0.236,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 109,
+   "diastolic": 60,
+   "triceps": 8,
+   "insulin": 182,
+   "bmi": 25.4,
+   "dpf": 0.947,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 90,
+   "diastolic": 62,
+   "triceps": 18,
+   "insulin": 59,
+   "bmi": 25.1,
+   "dpf": 1.268,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 125,
+   "diastolic": 70,
+   "triceps": 24,
+   "insulin": 110,
+   "bmi": 24.3,
+   "dpf": 0.221,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 119,
+   "diastolic": 54,
+   "triceps": 13,
+   "insulin": 50,
+   "bmi": 22.3,
+   "dpf": 0.205,
+   "age": 24
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 116,
+   "diastolic": 74,
+   "triceps": 29,
+   "insulin": 0,
+   "bmi": 32.3,
+   "dpf": 0.66,
+   "age": 35
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 105,
+   "diastolic": 100,
+   "triceps": 36,
+   "insulin": 0,
+   "bmi": 43.3,
+   "dpf": 0.239,
+   "age": 45
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 144,
+   "diastolic": 82,
+   "triceps": 26,
+   "insulin": 285,
+   "bmi": 32,
+   "dpf": 0.452,
+   "age": 58
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 100,
+   "diastolic": 68,
+   "triceps": 23,
+   "insulin": 81,
+   "bmi": 31.6,
+   "dpf": 0.949,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 100,
+   "diastolic": 66,
+   "triceps": 29,
+   "insulin": 196,
+   "bmi": 32,
+   "dpf": 0.444,
+   "age": 42
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 166,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 45.7,
+   "dpf": 0.34,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 131,
+   "diastolic": 64,
+   "triceps": 14,
+   "insulin": 415,
+   "bmi": 23.7,
+   "dpf": 0.389,
+   "age": 21
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 116,
+   "diastolic": 72,
+   "triceps": 12,
+   "insulin": 87,
+   "bmi": 22.1,
+   "dpf": 0.463,
+   "age": 37
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 158,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.9,
+   "dpf": 0.803,
+   "age": 31
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 127,
+   "diastolic": 58,
+   "triceps": 24,
+   "insulin": 275,
+   "bmi": 27.7,
+   "dpf": 1.6,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 96,
+   "diastolic": 56,
+   "triceps": 34,
+   "insulin": 115,
+   "bmi": 24.7,
+   "dpf": 0.944,
+   "age": 39
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 131,
+   "diastolic": 66,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 34.3,
+   "dpf": 0.196,
+   "age": 22
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 82,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.1,
+   "dpf": 0.389,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 193,
+   "diastolic": 70,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 34.9,
+   "dpf": 0.241,
+   "age": 25
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 95,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.161,
+   "age": 31
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 137,
+   "diastolic": 61,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.2,
+   "dpf": 0.151,
+   "age": 55
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 136,
+   "diastolic": 84,
+   "triceps": 41,
+   "insulin": 88,
+   "bmi": 35,
+   "dpf": 0.286,
+   "age": 35
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 72,
+   "diastolic": 78,
+   "triceps": 25,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.28,
+   "age": 38
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 168,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.9,
+   "dpf": 0.135,
+   "age": 41
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 123,
+   "diastolic": 48,
+   "triceps": 32,
+   "insulin": 165,
+   "bmi": 42.1,
+   "dpf": 0.52,
+   "age": 26
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 115,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.9,
+   "dpf": 0.376,
+   "age": 46
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 101,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.9,
+   "dpf": 0.336,
+   "age": 25
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 197,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.9,
+   "dpf": 1.191,
+   "age": 39
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 172,
+   "diastolic": 68,
+   "triceps": 49,
+   "insulin": 579,
+   "bmi": 42.4,
+   "dpf": 0.702,
+   "age": 28
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 102,
+   "diastolic": 90,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 35.7,
+   "dpf": 0.674,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 112,
+   "diastolic": 72,
+   "triceps": 30,
+   "insulin": 176,
+   "bmi": 34.4,
+   "dpf": 0.528,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 143,
+   "diastolic": 84,
+   "triceps": 23,
+   "insulin": 310,
+   "bmi": 42.4,
+   "dpf": 1.076,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 143,
+   "diastolic": 74,
+   "triceps": 22,
+   "insulin": 61,
+   "bmi": 26.2,
+   "dpf": 0.256,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 138,
+   "diastolic": 60,
+   "triceps": 35,
+   "insulin": 167,
+   "bmi": 34.6,
+   "dpf": 0.534,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 173,
+   "diastolic": 84,
+   "triceps": 33,
+   "insulin": 474,
+   "bmi": 35.7,
+   "dpf": 0.258,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 97,
+   "diastolic": 68,
+   "triceps": 21,
+   "insulin": 0,
+   "bmi": 27.2,
+   "dpf": 1.095,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 144,
+   "diastolic": 82,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 38.5,
+   "dpf": 0.554,
+   "age": 37
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 83,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 18.2,
+   "dpf": 0.624,
+   "age": 27
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 129,
+   "diastolic": 64,
+   "triceps": 29,
+   "insulin": 115,
+   "bmi": 26.4,
+   "dpf": 0.219,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 119,
+   "diastolic": 88,
+   "triceps": 41,
+   "insulin": 170,
+   "bmi": 45.3,
+   "dpf": 0.507,
+   "age": 26
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 94,
+   "diastolic": 68,
+   "triceps": 18,
+   "insulin": 76,
+   "bmi": 26,
+   "dpf": 0.561,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 102,
+   "diastolic": 64,
+   "triceps": 46,
+   "insulin": 78,
+   "bmi": 40.6,
+   "dpf": 0.496,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 115,
+   "diastolic": 64,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 30.8,
+   "dpf": 0.421,
+   "age": 21
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 151,
+   "diastolic": 78,
+   "triceps": 32,
+   "insulin": 210,
+   "bmi": 42.9,
+   "dpf": 0.516,
+   "age": 36
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 184,
+   "diastolic": 78,
+   "triceps": 39,
+   "insulin": 277,
+   "bmi": 37,
+   "dpf": 0.264,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 94,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.256,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 181,
+   "diastolic": 64,
+   "triceps": 30,
+   "insulin": 180,
+   "bmi": 34.1,
+   "dpf": 0.328,
+   "age": 38
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 135,
+   "diastolic": 94,
+   "triceps": 46,
+   "insulin": 145,
+   "bmi": 40.6,
+   "dpf": 0.284,
+   "age": 26
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 95,
+   "diastolic": 82,
+   "triceps": 25,
+   "insulin": 180,
+   "bmi": 35,
+   "dpf": 0.233,
+   "age": 43
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 99,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.2,
+   "dpf": 0.108,
+   "age": 23
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 89,
+   "diastolic": 74,
+   "triceps": 16,
+   "insulin": 85,
+   "bmi": 30.4,
+   "dpf": 0.551,
+   "age": 38
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 80,
+   "diastolic": 74,
+   "triceps": 11,
+   "insulin": 60,
+   "bmi": 30,
+   "dpf": 0.527,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 139,
+   "diastolic": 75,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.6,
+   "dpf": 0.167,
+   "age": 29
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 90,
+   "diastolic": 68,
+   "triceps": 8,
+   "insulin": 0,
+   "bmi": 24.5,
+   "dpf": 1.138,
+   "age": 36
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 141,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.4,
+   "dpf": 0.205,
+   "age": 29
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 140,
+   "diastolic": 85,
+   "triceps": 33,
+   "insulin": 0,
+   "bmi": 37.4,
+   "dpf": 0.244,
+   "age": 41
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 147,
+   "diastolic": 75,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.9,
+   "dpf": 0.434,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 97,
+   "diastolic": 70,
+   "triceps": 15,
+   "insulin": 0,
+   "bmi": 18.2,
+   "dpf": 0.147,
+   "age": 21
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 107,
+   "diastolic": 88,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36.8,
+   "dpf": 0.727,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 189,
+   "diastolic": 104,
+   "triceps": 25,
+   "insulin": 0,
+   "bmi": 34.3,
+   "dpf": 0.435,
+   "age": 41
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 83,
+   "diastolic": 66,
+   "triceps": 23,
+   "insulin": 50,
+   "bmi": 32.2,
+   "dpf": 0.497,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 117,
+   "diastolic": 64,
+   "triceps": 27,
+   "insulin": 120,
+   "bmi": 33.2,
+   "dpf": 0.23,
+   "age": 24
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 108,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.5,
+   "dpf": 0.955,
+   "age": 33
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 117,
+   "diastolic": 62,
+   "triceps": 12,
+   "insulin": 0,
+   "bmi": 29.7,
+   "dpf": 0.38,
+   "age": 30
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 180,
+   "diastolic": 78,
+   "triceps": 63,
+   "insulin": 14,
+   "bmi": 59.4,
+   "dpf": 2.42,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 100,
+   "diastolic": 72,
+   "triceps": 12,
+   "insulin": 70,
+   "bmi": 25.3,
+   "dpf": 0.658,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 95,
+   "diastolic": 80,
+   "triceps": 45,
+   "insulin": 92,
+   "bmi": 36.5,
+   "dpf": 0.33,
+   "age": 26
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 104,
+   "diastolic": 64,
+   "triceps": 37,
+   "insulin": 64,
+   "bmi": 33.6,
+   "dpf": 0.51,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 120,
+   "diastolic": 74,
+   "triceps": 18,
+   "insulin": 63,
+   "bmi": 30.5,
+   "dpf": 0.285,
+   "age": 26
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 82,
+   "diastolic": 64,
+   "triceps": 13,
+   "insulin": 95,
+   "bmi": 21.2,
+   "dpf": 0.415,
+   "age": 23
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 134,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.9,
+   "dpf": 0.542,
+   "age": 23
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 91,
+   "diastolic": 68,
+   "triceps": 32,
+   "insulin": 210,
+   "bmi": 39.9,
+   "dpf": 0.381,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 119,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 19.6,
+   "dpf": 0.832,
+   "age": 72
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 100,
+   "diastolic": 54,
+   "triceps": 28,
+   "insulin": 105,
+   "bmi": 37.8,
+   "dpf": 0.498,
+   "age": 24
+ },
+ {
+   "pregnancies": 14,
+   "glucose": 175,
+   "diastolic": 62,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 33.6,
+   "dpf": 0.212,
+   "age": 38
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 135,
+   "diastolic": 54,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.7,
+   "dpf": 0.687,
+   "age": 62
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 86,
+   "diastolic": 68,
+   "triceps": 28,
+   "insulin": 71,
+   "bmi": 30.2,
+   "dpf": 0.364,
+   "age": 24
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 148,
+   "diastolic": 84,
+   "triceps": 48,
+   "insulin": 237,
+   "bmi": 37.6,
+   "dpf": 1.001,
+   "age": 51
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 134,
+   "diastolic": 74,
+   "triceps": 33,
+   "insulin": 60,
+   "bmi": 25.9,
+   "dpf": 0.46,
+   "age": 81
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 120,
+   "diastolic": 72,
+   "triceps": 22,
+   "insulin": 56,
+   "bmi": 20.8,
+   "dpf": 0.733,
+   "age": 48
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 71,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.8,
+   "dpf": 0.416,
+   "age": 26
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 74,
+   "diastolic": 70,
+   "triceps": 40,
+   "insulin": 49,
+   "bmi": 35.3,
+   "dpf": 0.705,
+   "age": 39
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 88,
+   "diastolic": 78,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 27.6,
+   "dpf": 0.258,
+   "age": 37
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 115,
+   "diastolic": 98,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24,
+   "dpf": 1.022,
+   "age": 34
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 124,
+   "diastolic": 56,
+   "triceps": 13,
+   "insulin": 105,
+   "bmi": 21.8,
+   "dpf": 0.452,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 74,
+   "diastolic": 52,
+   "triceps": 10,
+   "insulin": 36,
+   "bmi": 27.8,
+   "dpf": 0.269,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 97,
+   "diastolic": 64,
+   "triceps": 36,
+   "insulin": 100,
+   "bmi": 36.8,
+   "dpf": 0.6,
+   "age": 25
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 120,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30,
+   "dpf": 0.183,
+   "age": 38
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 154,
+   "diastolic": 78,
+   "triceps": 41,
+   "insulin": 140,
+   "bmi": 46.1,
+   "dpf": 0.571,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 144,
+   "diastolic": 82,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 41.3,
+   "dpf": 0.607,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 137,
+   "diastolic": 70,
+   "triceps": 38,
+   "insulin": 0,
+   "bmi": 33.2,
+   "dpf": 0.17,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 119,
+   "diastolic": 66,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 38.8,
+   "dpf": 0.259,
+   "age": 22
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 136,
+   "diastolic": 90,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.9,
+   "dpf": 0.21,
+   "age": 50
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 114,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.9,
+   "dpf": 0.126,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 137,
+   "diastolic": 84,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 27.3,
+   "dpf": 0.231,
+   "age": 59
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 105,
+   "diastolic": 80,
+   "triceps": 45,
+   "insulin": 191,
+   "bmi": 33.7,
+   "dpf": 0.711,
+   "age": 29
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 114,
+   "diastolic": 76,
+   "triceps": 17,
+   "insulin": 110,
+   "bmi": 23.8,
+   "dpf": 0.466,
+   "age": 31
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 126,
+   "diastolic": 74,
+   "triceps": 38,
+   "insulin": 75,
+   "bmi": 25.9,
+   "dpf": 0.162,
+   "age": 39
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 132,
+   "diastolic": 86,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 28,
+   "dpf": 0.419,
+   "age": 63
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 158,
+   "diastolic": 70,
+   "triceps": 30,
+   "insulin": 328,
+   "bmi": 35.5,
+   "dpf": 0.344,
+   "age": 35
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 123,
+   "diastolic": 88,
+   "triceps": 37,
+   "insulin": 0,
+   "bmi": 35.2,
+   "dpf": 0.197,
+   "age": 29
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 85,
+   "diastolic": 58,
+   "triceps": 22,
+   "insulin": 49,
+   "bmi": 27.8,
+   "dpf": 0.306,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 84,
+   "diastolic": 82,
+   "triceps": 31,
+   "insulin": 125,
+   "bmi": 38.2,
+   "dpf": 0.233,
+   "age": 23
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 145,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 44.2,
+   "dpf": 0.63,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 135,
+   "diastolic": 68,
+   "triceps": 42,
+   "insulin": 250,
+   "bmi": 42.3,
+   "dpf": 0.365,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 139,
+   "diastolic": 62,
+   "triceps": 41,
+   "insulin": 480,
+   "bmi": 40.7,
+   "dpf": 0.536,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 173,
+   "diastolic": 78,
+   "triceps": 32,
+   "insulin": 265,
+   "bmi": 46.5,
+   "dpf": 1.159,
+   "age": 58
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 99,
+   "diastolic": 72,
+   "triceps": 17,
+   "insulin": 0,
+   "bmi": 25.6,
+   "dpf": 0.294,
+   "age": 28
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 194,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.1,
+   "dpf": 0.551,
+   "age": 67
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 83,
+   "diastolic": 65,
+   "triceps": 28,
+   "insulin": 66,
+   "bmi": 36.8,
+   "dpf": 0.629,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 89,
+   "diastolic": 90,
+   "triceps": 30,
+   "insulin": 0,
+   "bmi": 33.5,
+   "dpf": 0.292,
+   "age": 42
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 99,
+   "diastolic": 68,
+   "triceps": 38,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.145,
+   "age": 33
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 125,
+   "diastolic": 70,
+   "triceps": 18,
+   "insulin": 122,
+   "bmi": 28.9,
+   "dpf": 1.144,
+   "age": 45
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 80,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.174,
+   "age": 22
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 166,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.6,
+   "dpf": 0.304,
+   "age": 66
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 110,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26,
+   "dpf": 0.292,
+   "age": 30
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 81,
+   "diastolic": 72,
+   "triceps": 15,
+   "insulin": 76,
+   "bmi": 30.1,
+   "dpf": 0.547,
+   "age": 25
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 195,
+   "diastolic": 70,
+   "triceps": 33,
+   "insulin": 145,
+   "bmi": 25.1,
+   "dpf": 0.163,
+   "age": 55
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 154,
+   "diastolic": 74,
+   "triceps": 32,
+   "insulin": 193,
+   "bmi": 29.3,
+   "dpf": 0.839,
+   "age": 39
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 117,
+   "diastolic": 90,
+   "triceps": 19,
+   "insulin": 71,
+   "bmi": 25.2,
+   "dpf": 0.313,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 84,
+   "diastolic": 72,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 37.2,
+   "dpf": 0.267,
+   "age": 28
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 0,
+   "diastolic": 68,
+   "triceps": 41,
+   "insulin": 0,
+   "bmi": 39,
+   "dpf": 0.727,
+   "age": 41
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 94,
+   "diastolic": 64,
+   "triceps": 25,
+   "insulin": 79,
+   "bmi": 33.3,
+   "dpf": 0.738,
+   "age": 41
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 96,
+   "diastolic": 78,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 37.3,
+   "dpf": 0.238,
+   "age": 40
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 75,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.3,
+   "dpf": 0.263,
+   "age": 38
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 180,
+   "diastolic": 90,
+   "triceps": 26,
+   "insulin": 90,
+   "bmi": 36.5,
+   "dpf": 0.314,
+   "age": 35
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 130,
+   "diastolic": 60,
+   "triceps": 23,
+   "insulin": 170,
+   "bmi": 28.6,
+   "dpf": 0.692,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 84,
+   "diastolic": 50,
+   "triceps": 23,
+   "insulin": 76,
+   "bmi": 30.4,
+   "dpf": 0.968,
+   "age": 21
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 120,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25,
+   "dpf": 0.409,
+   "age": 64
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 84,
+   "diastolic": 72,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 29.7,
+   "dpf": 0.297,
+   "age": 46
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 139,
+   "diastolic": 62,
+   "triceps": 17,
+   "insulin": 210,
+   "bmi": 22.1,
+   "dpf": 0.207,
+   "age": 21
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 91,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.2,
+   "dpf": 0.2,
+   "age": 58
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 91,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.3,
+   "dpf": 0.525,
+   "age": 22
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 99,
+   "diastolic": 54,
+   "triceps": 19,
+   "insulin": 86,
+   "bmi": 25.6,
+   "dpf": 0.154,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 163,
+   "diastolic": 70,
+   "triceps": 18,
+   "insulin": 105,
+   "bmi": 31.6,
+   "dpf": 0.268,
+   "age": 28
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 145,
+   "diastolic": 88,
+   "triceps": 34,
+   "insulin": 165,
+   "bmi": 30.3,
+   "dpf": 0.771,
+   "age": 53
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 125,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.6,
+   "dpf": 0.304,
+   "age": 51
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 76,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.18,
+   "age": 41
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 129,
+   "diastolic": 90,
+   "triceps": 7,
+   "insulin": 326,
+   "bmi": 19.6,
+   "dpf": 0.582,
+   "age": 60
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 68,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 66,
+   "bmi": 25,
+   "dpf": 0.187,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 124,
+   "diastolic": 80,
+   "triceps": 33,
+   "insulin": 130,
+   "bmi": 33.2,
+   "dpf": 0.305,
+   "age": 26
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 114,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.189,
+   "age": 26
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 130,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.2,
+   "dpf": 0.652,
+   "age": 45
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 125,
+   "diastolic": 58,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.6,
+   "dpf": 0.151,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 87,
+   "diastolic": 60,
+   "triceps": 18,
+   "insulin": 0,
+   "bmi": 21.8,
+   "dpf": 0.444,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 97,
+   "diastolic": 64,
+   "triceps": 19,
+   "insulin": 82,
+   "bmi": 18.2,
+   "dpf": 0.299,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 116,
+   "diastolic": 74,
+   "triceps": 15,
+   "insulin": 105,
+   "bmi": 26.3,
+   "dpf": 0.107,
+   "age": 24
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 117,
+   "diastolic": 66,
+   "triceps": 31,
+   "insulin": 188,
+   "bmi": 30.8,
+   "dpf": 0.493,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 111,
+   "diastolic": 65,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.6,
+   "dpf": 0.66,
+   "age": 31
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 122,
+   "diastolic": 60,
+   "triceps": 18,
+   "insulin": 106,
+   "bmi": 29.8,
+   "dpf": 0.717,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 107,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 45.3,
+   "dpf": 0.686,
+   "age": 24
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 86,
+   "diastolic": 66,
+   "triceps": 52,
+   "insulin": 65,
+   "bmi": 41.3,
+   "dpf": 0.917,
+   "age": 29
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 91,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.8,
+   "dpf": 0.501,
+   "age": 31
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 77,
+   "diastolic": 56,
+   "triceps": 30,
+   "insulin": 56,
+   "bmi": 33.3,
+   "dpf": 1.251,
+   "age": 24
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 132,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.9,
+   "dpf": 0.302,
+   "age": 23
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 105,
+   "diastolic": 90,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.6,
+   "dpf": 0.197,
+   "age": 46
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 57,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.7,
+   "dpf": 0.735,
+   "age": 67
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 127,
+   "diastolic": 80,
+   "triceps": 37,
+   "insulin": 210,
+   "bmi": 36.3,
+   "dpf": 0.804,
+   "age": 23
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 129,
+   "diastolic": 92,
+   "triceps": 49,
+   "insulin": 155,
+   "bmi": 36.4,
+   "dpf": 0.968,
+   "age": 32
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 100,
+   "diastolic": 74,
+   "triceps": 40,
+   "insulin": 215,
+   "bmi": 39.4,
+   "dpf": 0.661,
+   "age": 43
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 128,
+   "diastolic": 72,
+   "triceps": 25,
+   "insulin": 190,
+   "bmi": 32.4,
+   "dpf": 0.549,
+   "age": 27
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 90,
+   "diastolic": 85,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 34.9,
+   "dpf": 0.825,
+   "age": 56
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 84,
+   "diastolic": 90,
+   "triceps": 23,
+   "insulin": 56,
+   "bmi": 39.5,
+   "dpf": 0.159,
+   "age": 25
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 88,
+   "diastolic": 78,
+   "triceps": 29,
+   "insulin": 76,
+   "bmi": 32,
+   "dpf": 0.365,
+   "age": 29
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 186,
+   "diastolic": 90,
+   "triceps": 35,
+   "insulin": 225,
+   "bmi": 34.5,
+   "dpf": 0.423,
+   "age": 37
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 187,
+   "diastolic": 76,
+   "triceps": 27,
+   "insulin": 207,
+   "bmi": 43.6,
+   "dpf": 1.034,
+   "age": 53
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 131,
+   "diastolic": 68,
+   "triceps": 21,
+   "insulin": 166,
+   "bmi": 33.1,
+   "dpf": 0.16,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 164,
+   "diastolic": 82,
+   "triceps": 43,
+   "insulin": 67,
+   "bmi": 32.8,
+   "dpf": 0.341,
+   "age": 50
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 189,
+   "diastolic": 110,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 28.5,
+   "dpf": 0.68,
+   "age": 37
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 116,
+   "diastolic": 70,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 27.4,
+   "dpf": 0.204,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 84,
+   "diastolic": 68,
+   "triceps": 30,
+   "insulin": 106,
+   "bmi": 31.9,
+   "dpf": 0.591,
+   "age": 25
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 114,
+   "diastolic": 88,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.8,
+   "dpf": 0.247,
+   "age": 66
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 88,
+   "diastolic": 62,
+   "triceps": 24,
+   "insulin": 44,
+   "bmi": 29.9,
+   "dpf": 0.422,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 84,
+   "diastolic": 64,
+   "triceps": 23,
+   "insulin": 115,
+   "bmi": 36.9,
+   "dpf": 0.471,
+   "age": 28
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 124,
+   "diastolic": 70,
+   "triceps": 33,
+   "insulin": 215,
+   "bmi": 25.5,
+   "dpf": 0.161,
+   "age": 37
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 97,
+   "diastolic": 70,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 38.1,
+   "dpf": 0.218,
+   "age": 30
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 110,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.8,
+   "dpf": 0.237,
+   "age": 58
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 103,
+   "diastolic": 68,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 46.2,
+   "dpf": 0.126,
+   "age": 42
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 85,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.1,
+   "dpf": 0.3,
+   "age": 35
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 125,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 33.8,
+   "dpf": 0.121,
+   "age": 54
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 198,
+   "diastolic": 66,
+   "triceps": 32,
+   "insulin": 274,
+   "bmi": 41.3,
+   "dpf": 0.502,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 87,
+   "diastolic": 68,
+   "triceps": 34,
+   "insulin": 77,
+   "bmi": 37.6,
+   "dpf": 0.401,
+   "age": 24
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 99,
+   "diastolic": 60,
+   "triceps": 19,
+   "insulin": 54,
+   "bmi": 26.9,
+   "dpf": 0.497,
+   "age": 32
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 91,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.601,
+   "age": 27
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 95,
+   "diastolic": 54,
+   "triceps": 14,
+   "insulin": 88,
+   "bmi": 26.1,
+   "dpf": 0.748,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 99,
+   "diastolic": 72,
+   "triceps": 30,
+   "insulin": 18,
+   "bmi": 38.6,
+   "dpf": 0.412,
+   "age": 21
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 92,
+   "diastolic": 62,
+   "triceps": 32,
+   "insulin": 126,
+   "bmi": 32,
+   "dpf": 0.085,
+   "age": 46
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 154,
+   "diastolic": 72,
+   "triceps": 29,
+   "insulin": 126,
+   "bmi": 31.3,
+   "dpf": 0.338,
+   "age": 37
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 121,
+   "diastolic": 66,
+   "triceps": 30,
+   "insulin": 165,
+   "bmi": 34.3,
+   "dpf": 0.203,
+   "age": 33
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 78,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.5,
+   "dpf": 0.27,
+   "age": 39
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 130,
+   "diastolic": 96,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.6,
+   "dpf": 0.268,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 111,
+   "diastolic": 58,
+   "triceps": 31,
+   "insulin": 44,
+   "bmi": 29.5,
+   "dpf": 0.43,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 98,
+   "diastolic": 60,
+   "triceps": 17,
+   "insulin": 120,
+   "bmi": 34.7,
+   "dpf": 0.198,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 143,
+   "diastolic": 86,
+   "triceps": 30,
+   "insulin": 330,
+   "bmi": 30.1,
+   "dpf": 0.892,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 119,
+   "diastolic": 44,
+   "triceps": 47,
+   "insulin": 63,
+   "bmi": 35.5,
+   "dpf": 0.28,
+   "age": 25
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 108,
+   "diastolic": 44,
+   "triceps": 20,
+   "insulin": 130,
+   "bmi": 24,
+   "dpf": 0.813,
+   "age": 35
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 118,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.9,
+   "dpf": 0.693,
+   "age": 21
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 133,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27,
+   "dpf": 0.245,
+   "age": 36
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 197,
+   "diastolic": 70,
+   "triceps": 99,
+   "insulin": 0,
+   "bmi": 34.7,
+   "dpf": 0.575,
+   "age": 62
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 151,
+   "diastolic": 90,
+   "triceps": 46,
+   "insulin": 0,
+   "bmi": 42.1,
+   "dpf": 0.371,
+   "age": 21
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 109,
+   "diastolic": 60,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 25,
+   "dpf": 0.206,
+   "age": 27
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 121,
+   "diastolic": 78,
+   "triceps": 17,
+   "insulin": 0,
+   "bmi": 26.5,
+   "dpf": 0.259,
+   "age": 62
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 100,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 38.7,
+   "dpf": 0.19,
+   "age": 42
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 124,
+   "diastolic": 76,
+   "triceps": 24,
+   "insulin": 600,
+   "bmi": 28.7,
+   "dpf": 0.687,
+   "age": 52
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 93,
+   "diastolic": 56,
+   "triceps": 11,
+   "insulin": 0,
+   "bmi": 22.5,
+   "dpf": 0.417,
+   "age": 22
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 143,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.9,
+   "dpf": 0.129,
+   "age": 41
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 103,
+   "diastolic": 66,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.3,
+   "dpf": 0.249,
+   "age": 29
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 176,
+   "diastolic": 86,
+   "triceps": 27,
+   "insulin": 156,
+   "bmi": 33.3,
+   "dpf": 1.154,
+   "age": 52
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 73,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 21.1,
+   "dpf": 0.342,
+   "age": 25
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 111,
+   "diastolic": 84,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 46.8,
+   "dpf": 0.925,
+   "age": 45
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 112,
+   "diastolic": 78,
+   "triceps": 50,
+   "insulin": 140,
+   "bmi": 39.4,
+   "dpf": 0.175,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 132,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.4,
+   "dpf": 0.402,
+   "age": 44
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 82,
+   "diastolic": 52,
+   "triceps": 22,
+   "insulin": 115,
+   "bmi": 28.5,
+   "dpf": 1.699,
+   "age": 25
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 123,
+   "diastolic": 72,
+   "triceps": 45,
+   "insulin": 230,
+   "bmi": 33.6,
+   "dpf": 0.733,
+   "age": 34
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 188,
+   "diastolic": 82,
+   "triceps": 14,
+   "insulin": 185,
+   "bmi": 32,
+   "dpf": 0.682,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 67,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 45.3,
+   "dpf": 0.194,
+   "age": 46
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 89,
+   "diastolic": 24,
+   "triceps": 19,
+   "insulin": 25,
+   "bmi": 27.8,
+   "dpf": 0.559,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 173,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36.8,
+   "dpf": 0.088,
+   "age": 38
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 109,
+   "diastolic": 38,
+   "triceps": 18,
+   "insulin": 120,
+   "bmi": 23.1,
+   "dpf": 0.407,
+   "age": 26
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 108,
+   "diastolic": 88,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 27.1,
+   "dpf": 0.4,
+   "age": 24
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 96,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.7,
+   "dpf": 0.19,
+   "age": 28
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 124,
+   "diastolic": 74,
+   "triceps": 36,
+   "insulin": 0,
+   "bmi": 27.8,
+   "dpf": 0.1,
+   "age": 30
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 150,
+   "diastolic": 78,
+   "triceps": 29,
+   "insulin": 126,
+   "bmi": 35.2,
+   "dpf": 0.692,
+   "age": 54
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 183,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.4,
+   "dpf": 0.212,
+   "age": 36
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 124,
+   "diastolic": 60,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 35.8,
+   "dpf": 0.514,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 181,
+   "diastolic": 78,
+   "triceps": 42,
+   "insulin": 293,
+   "bmi": 40,
+   "dpf": 1.258,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 92,
+   "diastolic": 62,
+   "triceps": 25,
+   "insulin": 41,
+   "bmi": 19.5,
+   "dpf": 0.482,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 152,
+   "diastolic": 82,
+   "triceps": 39,
+   "insulin": 272,
+   "bmi": 41.5,
+   "dpf": 0.27,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 111,
+   "diastolic": 62,
+   "triceps": 13,
+   "insulin": 182,
+   "bmi": 24,
+   "dpf": 0.138,
+   "age": 23
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 106,
+   "diastolic": 54,
+   "triceps": 21,
+   "insulin": 158,
+   "bmi": 30.9,
+   "dpf": 0.292,
+   "age": 24
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 174,
+   "diastolic": 58,
+   "triceps": 22,
+   "insulin": 194,
+   "bmi": 32.9,
+   "dpf": 0.593,
+   "age": 36
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 168,
+   "diastolic": 88,
+   "triceps": 42,
+   "insulin": 321,
+   "bmi": 38.2,
+   "dpf": 0.787,
+   "age": 40
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 105,
+   "diastolic": 80,
+   "triceps": 28,
+   "insulin": 0,
+   "bmi": 32.5,
+   "dpf": 0.878,
+   "age": 26
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 138,
+   "diastolic": 74,
+   "triceps": 26,
+   "insulin": 144,
+   "bmi": 36.1,
+   "dpf": 0.557,
+   "age": 50
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 106,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.8,
+   "dpf": 0.207,
+   "age": 27
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 117,
+   "diastolic": 96,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.7,
+   "dpf": 0.157,
+   "age": 30
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 68,
+   "diastolic": 62,
+   "triceps": 13,
+   "insulin": 15,
+   "bmi": 20.1,
+   "dpf": 0.257,
+   "age": 23
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 112,
+   "diastolic": 82,
+   "triceps": 24,
+   "insulin": 0,
+   "bmi": 28.2,
+   "dpf": 1.282,
+   "age": 50
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 119,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.141,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 112,
+   "diastolic": 86,
+   "triceps": 42,
+   "insulin": 160,
+   "bmi": 38.4,
+   "dpf": 0.246,
+   "age": 28
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 92,
+   "diastolic": 76,
+   "triceps": 20,
+   "insulin": 0,
+   "bmi": 24.2,
+   "dpf": 1.698,
+   "age": 28
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 183,
+   "diastolic": 94,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 40.8,
+   "dpf": 1.461,
+   "age": 45
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 94,
+   "diastolic": 70,
+   "triceps": 27,
+   "insulin": 115,
+   "bmi": 43.5,
+   "dpf": 0.347,
+   "age": 21
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 108,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.8,
+   "dpf": 0.158,
+   "age": 21
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 90,
+   "diastolic": 88,
+   "triceps": 47,
+   "insulin": 54,
+   "bmi": 37.7,
+   "dpf": 0.362,
+   "age": 29
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 125,
+   "diastolic": 68,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.7,
+   "dpf": 0.206,
+   "age": 21
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 132,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.393,
+   "age": 21
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 128,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.6,
+   "dpf": 0.144,
+   "age": 45
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 94,
+   "diastolic": 65,
+   "triceps": 22,
+   "insulin": 0,
+   "bmi": 24.7,
+   "dpf": 0.148,
+   "age": 21
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 114,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.4,
+   "dpf": 0.732,
+   "age": 34
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 102,
+   "diastolic": 78,
+   "triceps": 40,
+   "insulin": 90,
+   "bmi": 34.5,
+   "dpf": 0.238,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 111,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.2,
+   "dpf": 0.343,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 128,
+   "diastolic": 82,
+   "triceps": 17,
+   "insulin": 183,
+   "bmi": 27.5,
+   "dpf": 0.115,
+   "age": 22
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 92,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25.9,
+   "dpf": 0.167,
+   "age": 31
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 104,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 0.465,
+   "age": 38
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 104,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.8,
+   "dpf": 0.153,
+   "age": 48
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 94,
+   "diastolic": 76,
+   "triceps": 18,
+   "insulin": 66,
+   "bmi": 31.6,
+   "dpf": 0.649,
+   "age": 23
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 97,
+   "diastolic": 76,
+   "triceps": 32,
+   "insulin": 91,
+   "bmi": 40.9,
+   "dpf": 0.871,
+   "age": 32
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 100,
+   "diastolic": 74,
+   "triceps": 12,
+   "insulin": 46,
+   "bmi": 19.5,
+   "dpf": 0.149,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 102,
+   "diastolic": 86,
+   "triceps": 17,
+   "insulin": 105,
+   "bmi": 29.3,
+   "dpf": 0.695,
+   "age": 27
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 128,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 34.3,
+   "dpf": 0.303,
+   "age": 24
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 147,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.5,
+   "dpf": 0.178,
+   "age": 50
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 90,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28,
+   "dpf": 0.61,
+   "age": 31
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 103,
+   "diastolic": 72,
+   "triceps": 30,
+   "insulin": 152,
+   "bmi": 27.6,
+   "dpf": 0.73,
+   "age": 27
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 157,
+   "diastolic": 74,
+   "triceps": 35,
+   "insulin": 440,
+   "bmi": 39.4,
+   "dpf": 0.134,
+   "age": 30
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 167,
+   "diastolic": 74,
+   "triceps": 17,
+   "insulin": 144,
+   "bmi": 23.4,
+   "dpf": 0.447,
+   "age": 33
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 179,
+   "diastolic": 50,
+   "triceps": 36,
+   "insulin": 159,
+   "bmi": 37.8,
+   "dpf": 0.455,
+   "age": 22
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 136,
+   "diastolic": 84,
+   "triceps": 35,
+   "insulin": 130,
+   "bmi": 28.3,
+   "dpf": 0.26,
+   "age": 42
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 107,
+   "diastolic": 60,
+   "triceps": 25,
+   "insulin": 0,
+   "bmi": 26.4,
+   "dpf": 0.133,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 91,
+   "diastolic": 54,
+   "triceps": 25,
+   "insulin": 100,
+   "bmi": 25.2,
+   "dpf": 0.234,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 117,
+   "diastolic": 60,
+   "triceps": 23,
+   "insulin": 106,
+   "bmi": 33.8,
+   "dpf": 0.466,
+   "age": 27
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 123,
+   "diastolic": 74,
+   "triceps": 40,
+   "insulin": 77,
+   "bmi": 34.1,
+   "dpf": 0.269,
+   "age": 28
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 120,
+   "diastolic": 54,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 26.8,
+   "dpf": 0.455,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 106,
+   "diastolic": 70,
+   "triceps": 28,
+   "insulin": 135,
+   "bmi": 34.2,
+   "dpf": 0.142,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 155,
+   "diastolic": 52,
+   "triceps": 27,
+   "insulin": 540,
+   "bmi": 38.7,
+   "dpf": 0.24,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 101,
+   "diastolic": 58,
+   "triceps": 35,
+   "insulin": 90,
+   "bmi": 21.8,
+   "dpf": 0.155,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 120,
+   "diastolic": 80,
+   "triceps": 48,
+   "insulin": 200,
+   "bmi": 38.9,
+   "dpf": 1.162,
+   "age": 41
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 127,
+   "diastolic": 106,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39,
+   "dpf": 0.19,
+   "age": 51
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 80,
+   "diastolic": 82,
+   "triceps": 31,
+   "insulin": 70,
+   "bmi": 34.2,
+   "dpf": 1.292,
+   "age": 27
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 162,
+   "diastolic": 84,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 27.7,
+   "dpf": 0.182,
+   "age": 54
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 199,
+   "diastolic": 76,
+   "triceps": 43,
+   "insulin": 0,
+   "bmi": 42.9,
+   "dpf": 1.394,
+   "age": 22
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 167,
+   "diastolic": 106,
+   "triceps": 46,
+   "insulin": 231,
+   "bmi": 37.6,
+   "dpf": 0.165,
+   "age": 43
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 145,
+   "diastolic": 80,
+   "triceps": 46,
+   "insulin": 130,
+   "bmi": 37.9,
+   "dpf": 0.637,
+   "age": 40
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 115,
+   "diastolic": 60,
+   "triceps": 39,
+   "insulin": 0,
+   "bmi": 33.7,
+   "dpf": 0.245,
+   "age": 40
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 112,
+   "diastolic": 80,
+   "triceps": 45,
+   "insulin": 132,
+   "bmi": 34.8,
+   "dpf": 0.217,
+   "age": 24
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 145,
+   "diastolic": 82,
+   "triceps": 18,
+   "insulin": 0,
+   "bmi": 32.5,
+   "dpf": 0.235,
+   "age": 70
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 111,
+   "diastolic": 70,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 27.5,
+   "dpf": 0.141,
+   "age": 40
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 98,
+   "diastolic": 58,
+   "triceps": 33,
+   "insulin": 190,
+   "bmi": 34,
+   "dpf": 0.43,
+   "age": 43
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 154,
+   "diastolic": 78,
+   "triceps": 30,
+   "insulin": 100,
+   "bmi": 30.9,
+   "dpf": 0.164,
+   "age": 45
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 165,
+   "diastolic": 68,
+   "triceps": 26,
+   "insulin": 168,
+   "bmi": 33.6,
+   "dpf": 0.631,
+   "age": 49
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 99,
+   "diastolic": 58,
+   "triceps": 10,
+   "insulin": 0,
+   "bmi": 25.4,
+   "dpf": 0.551,
+   "age": 21
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 68,
+   "diastolic": 106,
+   "triceps": 23,
+   "insulin": 49,
+   "bmi": 35.5,
+   "dpf": 0.285,
+   "age": 47
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 123,
+   "diastolic": 100,
+   "triceps": 35,
+   "insulin": 240,
+   "bmi": 57.3,
+   "dpf": 0.88,
+   "age": 22
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 91,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.6,
+   "dpf": 0.587,
+   "age": 68
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 195,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.9,
+   "dpf": 0.328,
+   "age": 31
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 156,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.8,
+   "dpf": 0.23,
+   "age": 53
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 93,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.3,
+   "dpf": 0.263,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 121,
+   "diastolic": 52,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36,
+   "dpf": 0.127,
+   "age": 25
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 101,
+   "diastolic": 58,
+   "triceps": 17,
+   "insulin": 265,
+   "bmi": 24.2,
+   "dpf": 0.614,
+   "age": 23
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 56,
+   "diastolic": 56,
+   "triceps": 28,
+   "insulin": 45,
+   "bmi": 24.2,
+   "dpf": 0.332,
+   "age": 22
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 162,
+   "diastolic": 76,
+   "triceps": 36,
+   "insulin": 0,
+   "bmi": 49.6,
+   "dpf": 0.364,
+   "age": 26
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 95,
+   "diastolic": 64,
+   "triceps": 39,
+   "insulin": 105,
+   "bmi": 44.6,
+   "dpf": 0.366,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 125,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.3,
+   "dpf": 0.536,
+   "age": 27
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 136,
+   "diastolic": 82,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.64,
+   "age": 69
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 129,
+   "diastolic": 74,
+   "triceps": 26,
+   "insulin": 205,
+   "bmi": 33.2,
+   "dpf": 0.591,
+   "age": 25
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 130,
+   "diastolic": 64,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.1,
+   "dpf": 0.314,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 107,
+   "diastolic": 50,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 28.3,
+   "dpf": 0.181,
+   "age": 29
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 140,
+   "diastolic": 74,
+   "triceps": 26,
+   "insulin": 180,
+   "bmi": 24.1,
+   "dpf": 0.828,
+   "age": 23
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 144,
+   "diastolic": 82,
+   "triceps": 46,
+   "insulin": 180,
+   "bmi": 46.1,
+   "dpf": 0.335,
+   "age": 46
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 107,
+   "diastolic": 80,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.6,
+   "dpf": 0.856,
+   "age": 34
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 158,
+   "diastolic": 114,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 42.3,
+   "dpf": 0.257,
+   "age": 44
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 121,
+   "diastolic": 70,
+   "triceps": 32,
+   "insulin": 95,
+   "bmi": 39.1,
+   "dpf": 0.886,
+   "age": 23
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 129,
+   "diastolic": 68,
+   "triceps": 49,
+   "insulin": 125,
+   "bmi": 38.5,
+   "dpf": 0.439,
+   "age": 43
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 90,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.5,
+   "dpf": 0.191,
+   "age": 25
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 142,
+   "diastolic": 90,
+   "triceps": 24,
+   "insulin": 480,
+   "bmi": 30.4,
+   "dpf": 0.128,
+   "age": 43
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 169,
+   "diastolic": 74,
+   "triceps": 19,
+   "insulin": 125,
+   "bmi": 29.9,
+   "dpf": 0.268,
+   "age": 31
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 99,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 25,
+   "dpf": 0.253,
+   "age": 22
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 127,
+   "diastolic": 88,
+   "triceps": 11,
+   "insulin": 155,
+   "bmi": 34.5,
+   "dpf": 0.598,
+   "age": 28
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 118,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 44.5,
+   "dpf": 0.904,
+   "age": 26
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 122,
+   "diastolic": 76,
+   "triceps": 27,
+   "insulin": 200,
+   "bmi": 35.9,
+   "dpf": 0.483,
+   "age": 26
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 125,
+   "diastolic": 78,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 27.6,
+   "dpf": 0.565,
+   "age": 49
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 168,
+   "diastolic": 88,
+   "triceps": 29,
+   "insulin": 0,
+   "bmi": 35,
+   "dpf": 0.905,
+   "age": 52
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 129,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 38.5,
+   "dpf": 0.304,
+   "age": 41
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 110,
+   "diastolic": 76,
+   "triceps": 20,
+   "insulin": 100,
+   "bmi": 28.4,
+   "dpf": 0.118,
+   "age": 27
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 80,
+   "diastolic": 80,
+   "triceps": 36,
+   "insulin": 0,
+   "bmi": 39.8,
+   "dpf": 0.177,
+   "age": 28
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 115,
+   "diastolic": 0,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 0,
+   "dpf": 0.261,
+   "age": 30
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 127,
+   "diastolic": 46,
+   "triceps": 21,
+   "insulin": 335,
+   "bmi": 34.4,
+   "dpf": 0.176,
+   "age": 22
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 164,
+   "diastolic": 78,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.148,
+   "age": 45
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 93,
+   "diastolic": 64,
+   "triceps": 32,
+   "insulin": 160,
+   "bmi": 38,
+   "dpf": 0.674,
+   "age": 23
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 158,
+   "diastolic": 64,
+   "triceps": 13,
+   "insulin": 387,
+   "bmi": 31.2,
+   "dpf": 0.295,
+   "age": 24
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 126,
+   "diastolic": 78,
+   "triceps": 27,
+   "insulin": 22,
+   "bmi": 29.6,
+   "dpf": 0.439,
+   "age": 40
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 129,
+   "diastolic": 62,
+   "triceps": 36,
+   "insulin": 0,
+   "bmi": 41.2,
+   "dpf": 0.441,
+   "age": 38
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 134,
+   "diastolic": 58,
+   "triceps": 20,
+   "insulin": 291,
+   "bmi": 26.4,
+   "dpf": 0.352,
+   "age": 21
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 102,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 29.5,
+   "dpf": 0.121,
+   "age": 32
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 187,
+   "diastolic": 50,
+   "triceps": 33,
+   "insulin": 392,
+   "bmi": 33.9,
+   "dpf": 0.826,
+   "age": 34
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 173,
+   "diastolic": 78,
+   "triceps": 39,
+   "insulin": 185,
+   "bmi": 33.8,
+   "dpf": 0.97,
+   "age": 31
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 94,
+   "diastolic": 72,
+   "triceps": 18,
+   "insulin": 0,
+   "bmi": 23.1,
+   "dpf": 0.595,
+   "age": 56
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 108,
+   "diastolic": 60,
+   "triceps": 46,
+   "insulin": 178,
+   "bmi": 35.5,
+   "dpf": 0.415,
+   "age": 24
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 97,
+   "diastolic": 76,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 35.6,
+   "dpf": 0.378,
+   "age": 52
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 83,
+   "diastolic": 86,
+   "triceps": 19,
+   "insulin": 0,
+   "bmi": 29.3,
+   "dpf": 0.317,
+   "age": 34
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 114,
+   "diastolic": 66,
+   "triceps": 36,
+   "insulin": 200,
+   "bmi": 38.1,
+   "dpf": 0.289,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 149,
+   "diastolic": 68,
+   "triceps": 29,
+   "insulin": 127,
+   "bmi": 29.3,
+   "dpf": 0.349,
+   "age": 42
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 117,
+   "diastolic": 86,
+   "triceps": 30,
+   "insulin": 105,
+   "bmi": 39.1,
+   "dpf": 0.251,
+   "age": 42
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 111,
+   "diastolic": 94,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.8,
+   "dpf": 0.265,
+   "age": 45
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 112,
+   "diastolic": 78,
+   "triceps": 40,
+   "insulin": 0,
+   "bmi": 39.4,
+   "dpf": 0.236,
+   "age": 38
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 116,
+   "diastolic": 78,
+   "triceps": 29,
+   "insulin": 180,
+   "bmi": 36.1,
+   "dpf": 0.496,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 141,
+   "diastolic": 84,
+   "triceps": 26,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.433,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 175,
+   "diastolic": 88,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.9,
+   "dpf": 0.326,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 92,
+   "diastolic": 52,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.1,
+   "dpf": 0.141,
+   "age": 22
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 130,
+   "diastolic": 78,
+   "triceps": 23,
+   "insulin": 79,
+   "bmi": 28.4,
+   "dpf": 0.323,
+   "age": 34
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 120,
+   "diastolic": 86,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 28.4,
+   "dpf": 0.259,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 174,
+   "diastolic": 88,
+   "triceps": 37,
+   "insulin": 120,
+   "bmi": 44.5,
+   "dpf": 0.646,
+   "age": 24
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 106,
+   "diastolic": 56,
+   "triceps": 27,
+   "insulin": 165,
+   "bmi": 29,
+   "dpf": 0.426,
+   "age": 22
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 105,
+   "diastolic": 75,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 23.3,
+   "dpf": 0.56,
+   "age": 53
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 95,
+   "diastolic": 60,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 35.4,
+   "dpf": 0.284,
+   "age": 28
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 126,
+   "diastolic": 86,
+   "triceps": 27,
+   "insulin": 120,
+   "bmi": 27.4,
+   "dpf": 0.515,
+   "age": 21
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 65,
+   "diastolic": 72,
+   "triceps": 23,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.6,
+   "age": 42
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 99,
+   "diastolic": 60,
+   "triceps": 17,
+   "insulin": 160,
+   "bmi": 36.6,
+   "dpf": 0.453,
+   "age": 21
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 102,
+   "diastolic": 74,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 39.5,
+   "dpf": 0.293,
+   "age": 42
+ },
+ {
+   "pregnancies": 11,
+   "glucose": 120,
+   "diastolic": 80,
+   "triceps": 37,
+   "insulin": 150,
+   "bmi": 42.3,
+   "dpf": 0.785,
+   "age": 48
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 102,
+   "diastolic": 44,
+   "triceps": 20,
+   "insulin": 94,
+   "bmi": 30.8,
+   "dpf": 0.4,
+   "age": 26
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 109,
+   "diastolic": 58,
+   "triceps": 18,
+   "insulin": 116,
+   "bmi": 28.5,
+   "dpf": 0.219,
+   "age": 22
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 140,
+   "diastolic": 94,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 32.7,
+   "dpf": 0.734,
+   "age": 45
+ },
+ {
+   "pregnancies": 13,
+   "glucose": 153,
+   "diastolic": 88,
+   "triceps": 37,
+   "insulin": 140,
+   "bmi": 40.6,
+   "dpf": 1.174,
+   "age": 39
+ },
+ {
+   "pregnancies": 12,
+   "glucose": 100,
+   "diastolic": 84,
+   "triceps": 33,
+   "insulin": 105,
+   "bmi": 30,
+   "dpf": 0.488,
+   "age": 46
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 147,
+   "diastolic": 94,
+   "triceps": 41,
+   "insulin": 0,
+   "bmi": 49.3,
+   "dpf": 0.358,
+   "age": 27
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 81,
+   "diastolic": 74,
+   "triceps": 41,
+   "insulin": 57,
+   "bmi": 46.3,
+   "dpf": 1.096,
+   "age": 32
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 187,
+   "diastolic": 70,
+   "triceps": 22,
+   "insulin": 200,
+   "bmi": 36.4,
+   "dpf": 0.408,
+   "age": 36
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 162,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 24.3,
+   "dpf": 0.178,
+   "age": 50
+ },
+ {
+   "pregnancies": 4,
+   "glucose": 136,
+   "diastolic": 70,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 31.2,
+   "dpf": 1.182,
+   "age": 22
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 121,
+   "diastolic": 78,
+   "triceps": 39,
+   "insulin": 74,
+   "bmi": 39,
+   "dpf": 0.261,
+   "age": 28
+ },
+ {
+   "pregnancies": 3,
+   "glucose": 108,
+   "diastolic": 62,
+   "triceps": 24,
+   "insulin": 0,
+   "bmi": 26,
+   "dpf": 0.223,
+   "age": 25
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 181,
+   "diastolic": 88,
+   "triceps": 44,
+   "insulin": 510,
+   "bmi": 43.3,
+   "dpf": 0.222,
+   "age": 26
+ },
+ {
+   "pregnancies": 8,
+   "glucose": 154,
+   "diastolic": 78,
+   "triceps": 32,
+   "insulin": 0,
+   "bmi": 32.4,
+   "dpf": 0.443,
+   "age": 45
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 128,
+   "diastolic": 88,
+   "triceps": 39,
+   "insulin": 110,
+   "bmi": 36.5,
+   "dpf": 1.057,
+   "age": 37
+ },
+ {
+   "pregnancies": 7,
+   "glucose": 137,
+   "diastolic": 90,
+   "triceps": 41,
+   "insulin": 0,
+   "bmi": 32,
+   "dpf": 0.391,
+   "age": 39
+ },
+ {
+   "pregnancies": 0,
+   "glucose": 123,
+   "diastolic": 72,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 36.3,
+   "dpf": 0.258,
+   "age": 52
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 106,
+   "diastolic": 76,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 37.5,
+   "dpf": 0.197,
+   "age": 26
+ },
+ {
+   "pregnancies": 6,
+   "glucose": 190,
+   "diastolic": 92,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 35.5,
+   "dpf": 0.278,
+   "age": 66
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 88,
+   "diastolic": 58,
+   "triceps": 26,
+   "insulin": 16,
+   "bmi": 28.4,
+   "dpf": 0.766,
+   "age": 22
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 170,
+   "diastolic": 74,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 44,
+   "dpf": 0.403,
+   "age": 43
+ },
+ {
+   "pregnancies": 9,
+   "glucose": 89,
+   "diastolic": 62,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 22.5,
+   "dpf": 0.142,
+   "age": 33
+ },
+ {
+   "pregnancies": 10,
+   "glucose": 101,
+   "diastolic": 76,
+   "triceps": 48,
+   "insulin": 180,
+   "bmi": 32.9,
+   "dpf": 0.171,
+   "age": 63
+ },
+ {
+   "pregnancies": 2,
+   "glucose": 122,
+   "diastolic": 70,
+   "triceps": 27,
+   "insulin": 0,
+   "bmi": 36.8,
+   "dpf": 0.34,
+   "age": 27
+ },
+ {
+   "pregnancies": 5,
+   "glucose": 121,
+   "diastolic": 72,
+   "triceps": 23,
+   "insulin": 112,
+   "bmi": 26.2,
+   "dpf": 0.245,
+   "age": 30
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 126,
+   "diastolic": 60,
+   "triceps": 0,
+   "insulin": 0,
+   "bmi": 30.1,
+   "dpf": 0.349,
+   "age": 47
+ },
+ {
+   "pregnancies": 1,
+   "glucose": 93,
+   "diastolic": 70,
+   "triceps": 31,
+   "insulin": 0,
+   "bmi": 30.4,
+   "dpf": 0.315,
+   "age": 23
+ }
+]
